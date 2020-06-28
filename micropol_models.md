@@ -56,7 +56,7 @@ Consider the data here as `read-only`.
 | url                       | required if relevant                      |
 | remark                    | optional                                  |
 
-### Solubility (unit: mg/L)
+### `Solubility` (unit: mg/L)
 | Field                     | Remark                                       |
 |---------------------------|----------------------------------------------|
 | identifier                | required from as `identifier` from `Species` |
@@ -68,7 +68,7 @@ Consider the data here as `read-only`.
 | url                       | required if relevant                         |
 | remark                    | optional                                     |
 
-### MolarExtinctionCoefficient (unit: /M/cm)
+### `MolarExtinctionCoefficient` (unit: /M/cm)
 | Field                     | Remark                                    |
 |---------------------------|-------------------------------------------|
 | identifier                | required as `identifier` from `Species`   |
