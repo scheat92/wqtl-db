@@ -1,7 +1,7 @@
 # Models for micropollutants database
 
 ### `Chemical`
-| Field             | remark   |
+| Field             | Value    |
 |-------------------|----------|
 | name              | required |
 | abbreviation      | optional |
@@ -17,7 +17,7 @@
 Note that `Chemical` model contains not only micropollutants but also oxidants such as ozone, free chlorine (hypochlorous acid), etc.
 
 ### `TargetByInstitution`
-| Field        | Remark                             |
+| Field        | Value                              |
 |--------------|------------------------------------|
 | name         | required as `name` from `Chemical` |
 | institution1 | required or empty                  |
@@ -30,7 +30,7 @@ For brevity and convenience, each intitute is currently defined as `GIST`, `BWA`
 
 
 ### `Species`
-| Field             | Remark                             |
+| Field             | Value                              |
 |-------------------|------------------------------------|
 | name              | required as `name` from `Chemical` |
 | net_charge        | *                                  |
@@ -45,7 +45,7 @@ In other words, modifications/updates on the data except `remark` are neither re
 Consider the data here as `read-only`.
 
 ### `PartitionCoefficient` (currently limits to octanol vs water?)
-| Field                     | Remark                                    |
+| Field                     | Value                                     |
 |---------------------------|-------------------------------------------|
 | identifier                | required as `identifier` from `Species`   |
 | value                     | required                                  |
@@ -57,7 +57,7 @@ Consider the data here as `read-only`.
 | remark                    | optional                                  |
 
 ### `Solubility` (unit: mg/L)
-| Field                     | Remark                                       |
+| Field                     | Value                                        |
 |---------------------------|----------------------------------------------|
 | identifier                | required from as `identifier` from `Species` |
 | value                     | required                                     |
@@ -69,7 +69,7 @@ Consider the data here as `read-only`.
 | remark                    | optional                                     |
 
 ### `MolarExtinctionCoefficient` (unit: /M/cm)
-| Field                     | Remark                                    |
+| Field                     | Value                                     |
 |---------------------------|-------------------------------------------|
 | identifier                | required as `identifier` from `Species`   |
 | value                     | required                                  |
@@ -83,7 +83,7 @@ Consider the data here as `read-only`.
 | remark                    | optional                                  |
 
 ### `QuantumYield`
-| Field                     | Remark                                    |
+| Field                     | Value                                     |
 |---------------------------|-------------------------------------------|
 | identifier                | required as `identifier` from `Species`   |
 | value                     | required                                  |
@@ -97,7 +97,7 @@ Consider the data here as `read-only`.
 | remark                    | optional                                  |
 
 ### `RateConstant`
-| Field                     | Remark                                                 |
+| Field                     | Value                                                  |
 |---------------------------|--------------------------------------------------------|
 | reactant1                 | required as identifier from `Species`                  |
 | reactant2                 | required as identifier from `Species` or from `Medium` |
@@ -112,7 +112,7 @@ Consider the data here as `read-only`.
 | remark                    | optional                                               |
 
 ### `AcidDissociationConstant`
-| Field                     | Remark                                    |
+| Field                     | Value                                     |
 |---------------------------|-------------------------------------------|
 | acid                      | required as `identifier` from `Species`   |
 | conjugate_base            | required as `identifier` from `Species`   |
@@ -124,7 +124,7 @@ Consider the data here as `read-only`.
 | remark                    | optional                                  |
 
 ### `Medium` (not implemented yet)
-| Field     | Remark                      |
+| Field     | Value                       |
 |-----------|-----------------------------|
 | medium    | required as UV, PAC, or GAC |
 | property1 |                             |
