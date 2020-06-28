@@ -13,7 +13,7 @@
 | molecular_formula | *        |
 | remark            | optional |
 
-*To be automatically generated using a chemoinformatics library
+*To be automatically generated using a chemoinformatics library<br>
 Note that `Chemical` model contains not only micropollutants but also oxidants such as ozone, free chlorine (hypochlorous acid), etc.
 
 ### `TargetByInstitution`
@@ -39,7 +39,7 @@ For brevity and convenience, each intitute is currently defined as `GIST`, `BWA`
 | is_representative | *                                  |
 | remark            | optional                           |
 
-*To be automatically generated using a chemoinformatics library
+*To be automatically generated using a chemoinformatics library<br>
 `Species` is to be used only as generated based on `name` and `smiles` provided in `Chemical`.
 In other words, modifications/updates on the data except `remark` are neither required nor permitted.
 Consider the data here as `read-only`.
