@@ -1,0 +1,1538 @@
+name	net_charge	identifier	smiles	value	branching_ratio	experimental_or_predicted	temperature	doi	url	remark
+Perfluoroheptanoic acid	0	perfluoroheptanoicacid_0_1	OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+Perfluoroheptanoic acid	-1	perfluoroheptanoicacid_-1_1	[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluorooctanoic acid	-1	perfluorooctanoicacid_-1_1	[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluorooctanesulfonic acid	-1	perfluorooctanesulfonicacid_-1_1	[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluorodecanoic acid	-1	perfluorodecanoicacid_-1_1	[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluorohexanoic acid	0	perfluorohexanoicacid_0_1	OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+Perfluorohexanoic acid	-1	perfluorohexanoicacid_-1_1	[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluorobutanesulfonate	-1	perfluorobutanesulfonate_-1_1	[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluorohexanesulfonic acid	-1	perfluorohexanesulfonicacid_-1_1	[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluoropentanoic acid	0	perfluoropentanoicacid_0_1	OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+Perfluoropentanoic acid	-1	perfluoropentanoicacid_-1_1	[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+N-nitrosodimethylamine	1	n-nitrosodimethylamine_1_1	CN(C)N=[OH+]							
+N-nitrosodimethylamine	0	n-nitrosodimethylamine_0_1	CN(C)N=O	100						
+										
+N-nitroso-di-n-butylamine	1	n-nitroso-di-n-butylamine_1_1	CCCCN(CCCC)N=[OH+]							
+N-nitroso-di-n-butylamine	0	n-nitroso-di-n-butylamine_0_1	CCCCN(CCCC)N=O	100						
+										
+N-nitrosodiethylamine	1	n-nitrosodiethylamine_1_1	CCN(CC)N=[OH+]							
+N-nitrosodiethylamine	0	n-nitrosodiethylamine_0_1	CCN(CC)N=O	100						
+										
+N-nitrosodi-n-propylamine	1	n-nitrosodi-n-propylamine_1_1	CCCN(CCC)N=[OH+]							
+N-nitrosodi-n-propylamine	0	n-nitrosodi-n-propylamine_0_1	CCCN(CCC)N=O	100						
+										
+N-nitrosomethylethylamine	1	n-nitrosomethylethylamine_1_1	CC[NH2+]CN=O							
+N-nitrosomethylethylamine	0	n-nitrosomethylethylamine_0_1	CCNCN=O	100						
+										
+N-nitrosomorpholine	1	n-nitrosomorpholine_1_1	[OH+]=NN1CCOCC1							
+N-nitrosomorpholine	0	n-nitrosomorpholine_0_1	O=NN1CCOCC1	100						
+										
+N-nitrosopyrrolidine	1	n-nitrosopyrrolidine_1_1	[OH+]=NN1CCCC1							
+N-nitrosopyrrolidine	0	n-nitrosopyrrolidine_0_1	O=NN1CCCC1	100						
+										
+1-H-benzotriazole	1	1-h-benzotriazole_1_1	c1ccc2[nH][nH+]nc2c1							
+1-H-benzotriazole	1	1-h-benzotriazole_1_2	c1ccc2[nH+]n[nH]c2c1							
+1-H-benzotriazole	0	1-h-benzotriazole_0_1	c1ccc2[nH]nnc2c1							
+1-H-benzotriazole	-1	1-h-benzotriazole_-1_1	c1ccc2[n-]nnc2c1	100						
+										
+4-methyl-1H-benzotriazole	2	4-methyl-1h-benzotriazole_2_1	Cc1cccc2[nH+][nH][nH+]c12							
+4-methyl-1H-benzotriazole	1	4-methyl-1h-benzotriazole_1_1	Cc1cccc2n[nH][nH+]c12							
+4-methyl-1H-benzotriazole	1	4-methyl-1h-benzotriazole_1_2	Cc1cccc2[nH+][nH]nc12							
+4-methyl-1H-benzotriazole	0	4-methyl-1h-benzotriazole_0_1	Cc1cccc2n[nH]nc12							
+4-methyl-1H-benzotriazole	-1	4-methyl-1h-benzotriazole_-1_1	Cc1cccc2n[n-]nc12	100						
+										
+Methylparaben	0	methylparaben_0_1	COC(=O)c1ccc(O)cc1							
+Methylparaben	-1	methylparaben_-1_1	COC(=O)c1ccc([O-])cc1	100						
+										
+Ethylparaben	0	ethylparaben_0_1	CCOC(=O)c1ccc(O)cc1							
+Ethylparaben	-1	ethylparaben_-1_1	CCOC(=O)c1ccc([O-])cc1	100						
+										
+Propylparaben	0	propylparaben_0_1	CCCOC(=O)c1ccc(O)cc1							
+Propylparaben	-1	propylparaben_-1_1	CCCOC(=O)c1ccc([O-])cc1	100						
+										
+Butylparaben	0	butylparaben_0_1	CCCCOC(=O)c1ccc(O)cc1							
+Butylparaben	-1	butylparaben_-1_1	CCCCOC(=O)c1ccc([O-])cc1	100						
+										
+Caffeine	1	caffeine_1_1	Cn1c[nH+]c2n(C)c(=O)n(C)c(=O)c12							
+Caffeine	0	caffeine_0_1	Cn1cnc2n(C)c(=O)n(C)c(=O)c12	100						
+										
+Clofibric acid	0	clofibricacid_0_1	CC(C)(Oc1ccc(Cl)cc1)C(O)=O							
+Clofibric acid	-1	clofibricacid_-1_1	CC(C)(Oc1ccc(Cl)cc1)C([O-])=O	100						
+										
+Gemfibrozil	0	gemfibrozil_0_1	Cc1ccc(C)c(OCCCC(C)(C)C(O)=O)c1							
+Gemfibrozil	-1	gemfibrozil_-1_1	Cc1ccc(C)c(OCCCC(C)(C)C([O-])=O)c1	100						
+										
+Atorvastatin	0	atorvastatin_0_1	CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(O)=O)-c1ccccc1							
+Atorvastatin	-1	atorvastatin_-1_1	CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC([O-])=O)-c1ccccc1							
+Atorvastatin	-2	atorvastatin_-2_2	CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CCC(O)CC([O-])CC([O-])=O)-c1ccccc1							
+Atorvastatin	-2	atorvastatin_-2_3	CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CCC([O-])CC(O)CC([O-])=O)-c1ccccc1							
+Atorvastatin	-2	atorvastatin_-2_1	CC(C)c1c(C(=O)[N-]c2ccccc2)c(c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC([O-])=O)-c1ccccc1							
+Atorvastatin	-3	atorvastatin_-3_2	CC(C)c1c(C(=O)[N-]c2ccccc2)c(c(-c2ccc(F)cc2)n1CCC([O-])CC(O)CC([O-])=O)-c1ccccc1							
+Atorvastatin	-3	atorvastatin_-3_1	CC(C)c1c(C(=O)[N-]c2ccccc2)c(c(-c2ccc(F)cc2)n1CCC(O)CC([O-])CC([O-])=O)-c1ccccc1							
+Atorvastatin	-3	atorvastatin_-3_3	CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CCC([O-])CC([O-])CC([O-])=O)-c1ccccc1							
+Atorvastatin	-4	atorvastatin_-4_1	CC(C)c1c(C(=O)[N-]c2ccccc2)c(c(-c2ccc(F)cc2)n1CCC([O-])CC([O-])CC([O-])=O)-c1ccccc1	100						
+										
+Simvastatin	0	simvastatin_0_1	CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C12							
+Simvastatin	-1	simvastatin_-1_1	CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC([O-])CC(=O)O3)C12	100						
+										
+Propranolol	0	propranolol_0_1	CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C12							
+Propranolol	-1	propranolol_-1_1	CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC([O-])CC(=O)O3)C12	100						
+										
+Atenolol	2	atenolol_2_1	CC(C)[NH2+]CC(O)COc1ccc(CC(N)=[OH+])cc1							
+Atenolol	1	atenolol_1_1	CC(C)[NH2+]CC(O)COc1ccc(CC(N)=O)cc1							
+Atenolol	0	atenolol_0_1	CC(C)NCC(O)COc1ccc(CC(N)=O)cc1							
+Atenolol	-1	atenolol_-1_1	CC(C)NCC([O-])COc1ccc(CC(N)=O)cc1							
+Atenolol	-1	atenolol_-1_2	CC(C)NCC(O)COc1ccc(CC([NH-])=O)cc1							
+Atenolol	-2	atenolol_-2_1	CC(C)NCC([O-])COc1ccc(CC([NH-])=O)cc1	100						
+										
+Metoprolol	1	metoprolol_1_1	COCCc1ccc(OCC(O)C[NH2+]C(C)C)cc1							
+Metoprolol	0	metoprolol_0_1	COCCc1ccc(OCC(O)CNC(C)C)cc1							
+Metoprolol	-1	metoprolol_-1_1	COCCc1ccc(OCC([O-])CNC(C)C)cc1	100						
+										
+Diclofenac	1	diclofenac_1_1	OC(=O)Cc1ccccc1[NH2+]c1c(Cl)cccc1Cl							
+Diclofenac	0	diclofenac_0_1	OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl							
+Diclofenac	-1	diclofenac_-1_1	[O-]C(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl	100						
+										
+Acetaminophen	0	acetaminophen_0_1	CC(=O)Nc1ccc(O)cc1							
+Acetaminophen	-1	acetaminophen_-1_1	CC(=O)Nc1ccc([O-])cc1							
+Acetaminophen	-2	acetaminophen_-2_1	CC(=O)[N-]c1ccc([O-])cc1	100						
+										
+Carbamazepine	1	carbamazepine_1_1	OC(=[NH2+])N1c2ccccc2C=Cc2ccccc12							
+Carbamazepine	0	carbamazepine_0_1	OC(=N)N1c2ccccc2C=Cc2ccccc12							
+Carbamazepine	0	carbamazepine_0_2	[O-]C(=[NH2+])N1c2ccccc2C=Cc2ccccc12							
+Carbamazepine	-1	carbamazepine_-1_1	[O-]C(=N)N1c2ccccc2C=Cc2ccccc12	100						
+										
+Lincomycin	2	lincomycin_2_1	CCCC1CC([NH+](C)C1)C(=[OH+])NC(C(C)O)C1OC(SC)C(O)C(O)C1O							
+Lincomycin	1	lincomycin_1_1	CCCC1CC([NH+](C)C1)C(=O)NC(C(C)O)C1OC(SC)C(O)C(O)C1O							
+Lincomycin	0	lincomycin_0_1	CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C(O)C(O)C1O							
+Lincomycin	-1	lincomycin_-1_3	CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C(O)C([O-])C1O							
+Lincomycin	-1	lincomycin_-1_5	CCCC1CC(N(C)C1)C(=O)NC(C(C)[O-])C1OC(SC)C(O)C(O)C1O							
+Lincomycin	-1	lincomycin_-1_4	CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C(O)C(O)C1[O-]							
+Lincomycin	-1	lincomycin_-1_1	CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C([O-])C(O)C1O							
+Lincomycin	-1	lincomycin_-1_2	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)O)C1OC(SC)C(O)C(O)C1O							
+Lincomycin	-2	lincomycin_-2_9	CCCC1CC(N(C)C1)C(=O)NC(C(C)[O-])C1OC(SC)C(O)C([O-])C1O							
+Lincomycin	-2	lincomycin_-2_10	CCCC1CC(N(C)C1)C(=O)NC(C(C)[O-])C1OC(SC)C(O)C(O)C1[O-]							
+Lincomycin	-2	lincomycin_-2_5	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)O)C1OC(SC)C(O)C([O-])C1O							
+Lincomycin	-2	lincomycin_-2_1	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)O)C1OC(SC)C([O-])C(O)C1O							
+Lincomycin	-2	lincomycin_-2_2	CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C([O-])C([O-])C1O							
+Lincomycin	-2	lincomycin_-2_3	CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C([O-])C(O)C1[O-]							
+Lincomycin	-2	lincomycin_-2_4	CCCC1CC(N(C)C1)C(=O)NC(C(C)[O-])C1OC(SC)C([O-])C(O)C1O							
+Lincomycin	-2	lincomycin_-2_6	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)O)C1OC(SC)C(O)C(O)C1[O-]							
+Lincomycin	-2	lincomycin_-2_7	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)[O-])C1OC(SC)C(O)C(O)C1O							
+Lincomycin	-2	lincomycin_-2_8	CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C(O)C([O-])C1[O-]							
+Lincomycin	-3	lincomycin_-3_4	CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C([O-])C([O-])C1[O-]							
+Lincomycin	-3	lincomycin_-3_5	CCCC1CC(N(C)C1)C(=O)NC(C(C)[O-])C1OC(SC)C([O-])C([O-])C1O							
+Lincomycin	-3	lincomycin_-3_6	CCCC1CC(N(C)C1)C(=O)NC(C(C)[O-])C1OC(SC)C([O-])C(O)C1[O-]							
+Lincomycin	-3	lincomycin_-3_7	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)O)C1OC(SC)C(O)C([O-])C1[O-]							
+Lincomycin	-3	lincomycin_-3_8	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)[O-])C1OC(SC)C(O)C([O-])C1O							
+Lincomycin	-3	lincomycin_-3_9	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)[O-])C1OC(SC)C(O)C(O)C1[O-]							
+Lincomycin	-3	lincomycin_-3_3	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)[O-])C1OC(SC)C([O-])C(O)C1O							
+Lincomycin	-3	lincomycin_-3_2	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)O)C1OC(SC)C([O-])C(O)C1[O-]							
+Lincomycin	-3	lincomycin_-3_1	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)O)C1OC(SC)C([O-])C([O-])C1O							
+Lincomycin	-4	lincomycin_-4_4	CCCC1CC(N(C)C1)C(=O)NC(C(C)[O-])C1OC(SC)C([O-])C([O-])C1[O-]							
+Lincomycin	-4	lincomycin_-4_5	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)[O-])C1OC(SC)C(O)C([O-])C1[O-]							
+Lincomycin	-4	lincomycin_-4_1	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)O)C1OC(SC)C([O-])C([O-])C1[O-]							
+Lincomycin	-4	lincomycin_-4_2	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)[O-])C1OC(SC)C([O-])C([O-])C1O							
+Lincomycin	-4	lincomycin_-4_3	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)[O-])C1OC(SC)C([O-])C(O)C1[O-]							
+Lincomycin	-5	lincomycin_-5_1	CCCC1CC(N(C)C1)C(=O)[N-]C(C(C)[O-])C1OC(SC)C([O-])C([O-])C1[O-]	100						
+										
+Sulfathiazole	2	sulfathiazole_2_1	[NH3+]c1ccc(cc1)S(=O)(=O)Nc1[nH+]ccs1							
+Sulfathiazole	1	sulfathiazole_1_1	Nc1ccc(cc1)S(=O)(=O)Nc1[nH+]ccs1							
+Sulfathiazole	1	sulfathiazole_1_2	[NH3+]c1ccc(cc1)S(=O)(=O)Nc1nccs1							
+Sulfathiazole	0	sulfathiazole_0_1	Nc1ccc(cc1)S(=O)(=O)Nc1nccs1							
+Sulfathiazole	-1	sulfathiazole_-1_1	Nc1ccc(cc1)S(=O)(=O)[N-]c1nccs1	100						
+										
+Trimethoprim	2	trimethoprim_2_1	COc1cc(Cc2c[nH]c(=[NH2+])[nH]c2=[NH2+])cc(OC)c1OC							
+Trimethoprim	1	trimethoprim_1_1	COc1cc(Cc2c[nH]c(=N)[nH]c2=[NH2+])cc(OC)c1OC							
+Trimethoprim	1	trimethoprim_1_2	COc1cc(Cc2c[nH]c(=[NH2+])[nH]c2=N)cc(OC)c1OC							
+Trimethoprim	0	trimethoprim_0_1	COc1cc(Cc2c[nH]c(=N)[nH]c2=N)cc(OC)c1OC							
+Trimethoprim	-1	trimethoprim_-1_1	COc1cc(Cc2c[nH]c(=N)[n-]c2=N)cc(OC)c1OC	100						
+										
+Sulfamethazine	2	sulfamethazine_2_1	Cc1cc(C)[nH+]c(NS(=O)(=O)c2ccc([NH3+])cc2)n1							
+Sulfamethazine	1	sulfamethazine_1_1	Cc1cc(C)nc(NS(=O)(=O)c2ccc([NH3+])cc2)n1							
+Sulfamethazine	0	sulfamethazine_0_1	Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1							
+Sulfamethazine	-1	sulfamethazine_-1_1	Cc1cc(C)nc([N-]S(=O)(=O)c2ccc(N)cc2)n1	100						
+										
+Sulfamethoxazole	2	sulfamethoxazole_2_1	Cc1cc(NS(=O)(=O)c2ccc([NH3+])cc2)[nH+]o1							
+Sulfamethoxazole	1	sulfamethoxazole_1_1	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)[nH+]o1							
+Sulfamethoxazole	1	sulfamethoxazole_1_2	Cc1cc(NS(=O)(=O)c2ccc([NH3+])cc2)no1							
+Sulfamethoxazole	0	sulfamethoxazole_0_1	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1							
+Sulfamethoxazole	-1	sulfamethoxazole_-1_1	Cc1cc([N-]S(=O)(=O)c2ccc(N)cc2)no1	100						
+										
+Estrone	0	estrone_0_1	CC12CCC3C(CCc4cc(O)ccc34)C1CCC2=O							
+Estrone	-1	estrone_-1_1	CC12CCC3C(CCc4cc([O-])ccc34)C1CCC2=O	100						
+										
+Estriol	0	estriol_0_1	CC12CCC3C(CCc4cc(O)ccc34)C1CC(O)C2O							
+Estriol	-1	estriol_-1_1	CC12CCC3C(CCc4cc([O-])ccc34)C1CC(O)C2O							
+Estriol	-2	estriol_-2_1	CC12CCC3C(CCc4cc([O-])ccc34)C1CC(O)C2[O-]							
+Estriol	-2	estriol_-2_2	CC12CCC3C(CCc4cc([O-])ccc34)C1CC([O-])C2O							
+Estriol	-3	estriol_-3_1	CC12CCC3C(CCc4cc([O-])ccc34)C1CC([O-])C2[O-]	100						
+										
+17α-Ethinylestradiol	1	17α-ethinylestradiol_1_1	CC12CCC3C(CCc4cc(O)ccc34)C1CCC2[OH2+]							
+17α-Ethinylestradiol	0	17α-ethinylestradiol_0_1	CC12CCC3C(CCc4cc(O)ccc34)C1CCC2O							
+17α-Ethinylestradiol	-1	17α-ethinylestradiol_-1_1	CC12CCC3C(CCc4cc([O-])ccc34)C1CCC2O	100						
+										
+17β-Estradiol	1	17β-estradiol_1_1	CC12CCC3C(CCc4cc(O)ccc34)C1CCC2([OH2+])C#C							
+17β-Estradiol	0	17β-estradiol_0_1	CC12CCC3C(CCc4cc(O)ccc34)C1CCC2(O)C#C							
+17β-Estradiol	-1	17β-estradiol_-1_1	CC12CCC3C(CCc4cc([O-])ccc34)C1CCC2(O)C#C	100						
+										
+Iopromide	1	iopromide_1_1	COCC(=O)Nc1c(I)c(C(=[OH+])NCC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	0	iopromide_0_1	COCC(=O)Nc1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-1	iopromide_-1_2	COCC(=O)Nc1c(I)c(C(=O)[N-]CC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-1	iopromide_-1_1	COCC(=O)[N-]c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-2	iopromide_-2_4	COCC(=O)[N-]c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)N(C)CC(O)C[O-])c1I							
+Iopromide	-2	iopromide_-2_5	COCC(=O)[N-]c1c(I)c(C(=O)NCC(O)C[O-])c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-2	iopromide_-2_6	COCC(=O)Nc1c(I)c(C(=O)[N-]CC(O)CO)c(I)c(C(=O)N(C)CC([O-])CO)c1I							
+Iopromide	-2	iopromide_-2_3	COCC(=O)[N-]c1c(I)c(C(=O)NCC([O-])CO)c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-2	iopromide_-2_2	COCC(=O)[N-]c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)N(C)CC([O-])CO)c1I							
+Iopromide	-2	iopromide_-2_7	COCC(=O)Nc1c(I)c(C(=O)[N-]CC([O-])CO)c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-2	iopromide_-2_1	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-3	iopromide_-3_4	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC(O)C[O-])c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-3	iopromide_-3_1	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC(O)CO)c(I)c(C(=O)N(C)CC([O-])CO)c1I							
+Iopromide	-3	iopromide_-3_2	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC([O-])CO)c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-3	iopromide_-3_3	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC(O)CO)c(I)c(C(=O)N(C)CC(O)C[O-])c1I							
+Iopromide	-3	iopromide_-3_5	COCC(=O)[N-]c1c(I)c(C(=O)NCC([O-])CO)c(I)c(C(=O)N(C)CC([O-])CO)c1I							
+Iopromide	-4	iopromide_-4_4	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC([O-])CO)c(I)c(C(=O)N(C)CC(O)C[O-])c1I							
+Iopromide	-4	iopromide_-4_5	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC([O-])C[O-])c(I)c(C(=O)N(C)CC(O)CO)c1I							
+Iopromide	-4	iopromide_-4_6	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC(O)C[O-])c(I)c(C(=O)N(C)CC(O)C[O-])c1I							
+Iopromide	-4	iopromide_-4_3	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC(O)C[O-])c(I)c(C(=O)N(C)CC([O-])CO)c1I							
+Iopromide	-4	iopromide_-4_2	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC(O)CO)c(I)c(C(=O)N(C)CC([O-])C[O-])c1I							
+Iopromide	-4	iopromide_-4_1	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC([O-])CO)c(I)c(C(=O)N(C)CC([O-])CO)c1I							
+Iopromide	-5	iopromide_-5_4	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC([O-])C[O-])c(I)c(C(=O)N(C)CC(O)C[O-])c1I							
+Iopromide	-5	iopromide_-5_1	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC([O-])CO)c(I)c(C(=O)N(C)CC([O-])C[O-])c1I							
+Iopromide	-5	iopromide_-5_2	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC([O-])C[O-])c(I)c(C(=O)N(C)CC([O-])CO)c1I							
+Iopromide	-5	iopromide_-5_3	COCC(=O)[N-]c1c(I)c(C(=O)[N-]CC(O)C[O-])c(I)c(C(=O)N(C)CC([O-])C[O-])c1I	100						
+										
+Metformin	2	metformin_2_1	CN(C)C(=[NH2+])NC(N)=[NH2+]							
+Metformin	1	metformin_1_1	CN(C)C(=N)NC(N)=[NH2+]							
+Metformin	1	metformin_1_2	CN(C)C(=[NH2+])NC(N)=N							
+Metformin	0	metformin_0_1	CN(C)C(=N)NC(N)=N	100						
+										
+Ibuprofen	0	ibuprofen_0_1	CC(C)Cc1ccc(cc1)C(C)C(O)=O							
+Ibuprofen	-1	ibuprofen_-1_1	CC(C)Cc1ccc(cc1)C(C)C([O-])=O	100						
+										
+Naproxen	0	naproxen_0_1	COc1ccc2cc(ccc2c1)C(C)C(O)=O							
+Naproxen	-1	naproxen_-1_1	COc1ccc2cc(ccc2c1)C(C)C([O-])=O	100						
+										
+Ranitidine	3	ranitidine_3_1	CNC([NH2+]CCSCC1=CC=C(C[NH+](C)C)[OH+]1)=C[N+]([O-])=O							
+Ranitidine	3	ranitidine_3_2	C[NH2+]C(NCCSCC1=CC=C(C[NH+](C)C)[OH+]1)=C[N+]([O-])=O							
+Ranitidine	2	ranitidine_2_1	CNC(NCCSCC1=CC=C(C[NH+](C)C)[OH+]1)=C[N+]([O-])=O							
+Ranitidine	2	ranitidine_2_2	CNC([NH2+]CCSCc1ccc(C[NH+](C)C)o1)=C[N+]([O-])=O							
+Ranitidine	2	ranitidine_2_3	C[NH2+]C(NCCSCc1ccc(C[NH+](C)C)o1)=C[N+]([O-])=O							
+Ranitidine	1	ranitidine_1_1	CNC(NCCSCc1ccc(C[NH+](C)C)o1)=C[N+]([O-])=O							
+Ranitidine	0	ranitidine_0_1	CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O	100						
+										
+Cimetidine	2	cimetidine_2_1	CNC(NC#N)=[NH+]CCSCc1[nH]c[nH+]c1C							
+Cimetidine	1	cimetidine_1_1	CNC(NC#N)=NCCSCc1[nH]c[nH+]c1C							
+Cimetidine	1	cimetidine_1_2	CNC(NC#N)=[NH+]CCSCc1[nH]cnc1C							
+Cimetidine	0	cimetidine_0_1	CNC(NC#N)=NCCSCc1[nH]cnc1C							
+Cimetidine	-1	cimetidine_-1_1	CNC(NC#N)=NCCSCc1[n-]cnc1C	100						
+										
+N,N’-Diethyltoluamide	1	n,n’-diethyltoluamide_1_1	CCN(CC)C(=[OH+])c1cccc(C)c1							
+N,N’-Diethyltoluamide	0	n,n’-diethyltoluamide_0_1	CCN(CC)C(=O)c1cccc(C)c1	100						
+										
+Atrazine	1	atrazine_1_1	CCNc1nc(Cl)[nH+]c(NC(C)C)n1							
+Atrazine	1	atrazine_1_2	CCNc1nc(NC(C)C)nc(Cl)[nH+]1							
+Atrazine	1	atrazine_1_3	CCNc1nc(Cl)nc(NC(C)C)[nH+]1							
+Atrazine	0	atrazine_0_1	CCNc1nc(Cl)nc(NC(C)C)n1							
+Atrazine	-1	atrazine_-1_1	CCNc1nc(Cl)nc([N-]C(C)C)n1							
+Atrazine	-1	atrazine_-1_2	CC[N-]c1nc(Cl)nc(NC(C)C)n1							
+Atrazine	-2	atrazine_-2_1	CC[N-]c1nc(Cl)nc([N-]C(C)C)n1	100						
+										
+Tetracycline	2	tetracycline_2_1	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(O)=[NH2+])=C1O)C(=O)c1c(O)cccc1C3(C)O							
+Tetracycline	1	tetracycline_1_2	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C([O-])=[NH2+])=C1O)C(=O)c1c(O)cccc1C3(C)O							
+Tetracycline	1	tetracycline_1_1	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(O)=[NH2+])=C1[O-])C(=O)c1c(O)cccc1C3(C)O							
+Tetracycline	0	tetracycline_0_1	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c(O)cccc1C3(C)O							
+Tetracycline	-1	tetracycline_-1_2	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c([O-])cccc1C3(C)O							
+Tetracycline	-1	tetracycline_-1_3	C[NH+](C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c(O)cccc1C3(C)O							
+Tetracycline	-1	tetracycline_-1_1	CN(C)C1C2CC3C(=C(O)C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c(O)cccc1C3(C)O							
+Tetracycline	-2	tetracycline_-2_1	CN(C)C1C2CC3C(=C(O)C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c([O-])cccc1C3(C)O							
+Tetracycline	-2	tetracycline_-2_2	CN(C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c(O)cccc1C3(C)O							
+Tetracycline	-2	tetracycline_-2_3	C[NH+](C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c([O-])cccc1C3(C)O							
+Tetracycline	-3	tetracycline_-3_1	CN(C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c([O-])cccc1C3(C)O							
+Tetracycline	-4	tetracycline_-4_2	CN(C)C1C2CC3C(=C([O-])C2([O-])C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c([O-])cccc1C3(C)O							
+Tetracycline	-4	tetracycline_-4_3	CN(C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c([O-])cccc1C3(C)[O-]							
+Tetracycline	-4	tetracycline_-4_1	CN(C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C([O-])=N)=C1[O-])C(=O)c1c([O-])cccc1C3(C)O							
+Tetracycline	-5	tetracycline_-5_2	CN(C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C([O-])=N)=C1[O-])C(=O)c1c([O-])cccc1C3(C)[O-]							
+Tetracycline	-5	tetracycline_-5_1	CN(C)C1C2CC3C(=C([O-])C2([O-])C(=O)C(C([O-])=N)=C1[O-])C(=O)c1c([O-])cccc1C3(C)O							
+Tetracycline	-5	tetracycline_-5_3	CN(C)C1C2CC3C(=C([O-])C2([O-])C(=O)C(C([O-])=[NH2+])=C1[O-])C(=O)c1c([O-])cccc1C3(C)[O-]							
+Tetracycline	-6	tetracycline_-6_1	CN(C)C1C2CC3C(=C([O-])C2([O-])C(=O)C(C([O-])=N)=C1[O-])C(=O)c1c([O-])cccc1C3(C)[O-]	100						
+										
+Chlortetracycline	2	chlortetracycline_2_1	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(N)=[OH+])=C1O)C(=O)c1c(O)ccc(Cl)c1C3(C)O							
+Chlortetracycline	1	chlortetracycline_1_2	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(N)=[OH+])=C1[O-])C(=O)c1c(O)ccc(Cl)c1C3(C)O							
+Chlortetracycline	1	chlortetracycline_1_1	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(N)=O)=C1O)C(=O)c1c(O)ccc(Cl)c1C3(C)O							
+Chlortetracycline	0	chlortetracycline_0_1	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c(O)ccc(Cl)c1C3(C)O							
+Chlortetracycline	-1	chlortetracycline_-1_1	CN(C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c(O)ccc(Cl)c1C3(C)O							
+Chlortetracycline	-1	chlortetracycline_-1_2	C[NH+](C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)O							
+Chlortetracycline	-1	chlortetracycline_-1_3	C[NH+](C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c(O)ccc(Cl)c1C3(C)O							
+Chlortetracycline	-2	chlortetracycline_-2_3	C[NH+](C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)O							
+Chlortetracycline	-2	chlortetracycline_-2_1	CN(C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)O							
+Chlortetracycline	-2	chlortetracycline_-2_2	CN(C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c(O)ccc(Cl)c1C3(C)O							
+Chlortetracycline	-3	chlortetracycline_-3_1	CN(C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)O							
+Chlortetracycline	-4	chlortetracycline_-4_2	CN(C)C1C2CC3C(=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)[O-]							
+Chlortetracycline	-4	chlortetracycline_-4_1	CN(C)C1C2CC3C(=C([O-])C2([O-])C(=O)C(C(N)=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)O							
+Chlortetracycline	-5	chlortetracycline_-5_1	CN(C)C1C2CC3C(=C([O-])C2([O-])C(=O)C(C(N)=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)[O-]							
+Chlortetracycline	-5	chlortetracycline_-5_2	CN(C)C1C2CC3C(=C([O-])C2([O-])C(=O)C(C([NH-])=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)O							
+Chlortetracycline	-6	chlortetracycline_-6_1	CN(C)C1C2CC3C(=C([O-])C2([O-])C(=O)C(C([NH-])=O)=C1[O-])C(=O)c1c([O-])ccc(Cl)c1C3(C)[O-]	100						
+										
+Clarithromycin	1	clarithromycin_1_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)[NH+](C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)O)OC							
+Clarithromycin	0	clarithromycin_0_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)O)OC							
+Clarithromycin	-1	clarithromycin_-1_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)O)OC							
+Clarithromycin	-1	clarithromycin_-1_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)O)OC							
+Clarithromycin	-1	clarithromycin_-1_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)[O-])OC							
+Clarithromycin	-1	clarithromycin_-1_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C([O-])C1(C)O)OC							
+Clarithromycin	-1	clarithromycin_-1_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)[C-](C)C(O)C1(C)O)OC							
+Clarithromycin	-2	clarithromycin_-2_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)O)OC							
+Clarithromycin	-2	clarithromycin_-2_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)[O-])OC							
+Clarithromycin	-2	clarithromycin_-2_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)C(C)C([O-])C1(C)O)OC							
+Clarithromycin	-2	clarithromycin_-2_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)[C-](C)C(O)C1(C)O)OC							
+Clarithromycin	-2	clarithromycin_-2_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)[O-])OC							
+Clarithromycin	-2	clarithromycin_-2_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C([O-])C1(C)O)OC							
+Clarithromycin	-2	clarithromycin_-2_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)[C-](C)C(O)C1(C)O)OC							
+Clarithromycin	-2	clarithromycin_-2_8	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C([O-])C1(C)[O-])OC							
+Clarithromycin	-2	clarithromycin_-2_9	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)[C-](C)C(O)C1(C)[O-])OC							
+Clarithromycin	-3	clarithromycin_-3_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)[O-])OC							
+Clarithromycin	-3	clarithromycin_-3_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)C(C)C([O-])C1(C)O)OC							
+Clarithromycin	-3	clarithromycin_-3_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)[C-](C)C(O)C1(C)O)OC							
+Clarithromycin	-3	clarithromycin_-3_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)C(C)C([O-])C1(C)[O-])OC							
+Clarithromycin	-3	clarithromycin_-3_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)[C-](C)C(O)C1(C)[O-])OC							
+Clarithromycin	-3	clarithromycin_-3_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C([O-])C1(C)[O-])OC							
+Clarithromycin	-3	clarithromycin_-3_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)[C-](C)C(O)C1(C)[O-])OC							
+Clarithromycin	-4	clarithromycin_-4_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)C(C)C([O-])C1(C)[O-])OC							
+Clarithromycin	-4	clarithromycin_-4_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)[C-](C)C(O)C1(C)[O-])OC							
+Clarithromycin	-4	clarithromycin_-4_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)[C-](C)C([O-])C1(C)O)OC							
+Clarithromycin	-5	clarithromycin_-5_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(CC(C)C(=O)[C-](C)C([O-])C1(C)[O-])OC	100						
+										
+Venlafaxine	1	venlafaxine_1_1	COc1ccc(cc1)C(C[NH+](C)C)C1(O)CCCCC1							
+Venlafaxine	0	venlafaxine_0_1	COc1ccc(cc1)C(CN(C)C)C1(O)CCCCC1							
+Venlafaxine	-1	venlafaxine_-1_1	COc1ccc(cc1)C(CN(C)C)C1([O-])CCCCC1	100						
+										
+Carbendazim	1	carbendazim_1_1	COC(=O)Nc1[nH]c2ccccc2[nH+]1							
+Carbendazim	0	carbendazim_0_1	COC(=O)Nc1nc2ccccc2[nH]1							
+Carbendazim	-1	carbendazim_-1_1	COC(=O)Nc1nc2ccccc2[n-]1							
+Carbendazim	-1	carbendazim_-1_2	COC(=O)[N-]c1nc2ccccc2[nH]1							
+Carbendazim	-2	carbendazim_-2_1	COC(=O)[N-]c1nc2ccccc2[n-]1	100						
+										
+Metalaxyl	0	metalaxyl_0_1	COCC(=O)N(C(C)C(=O)OC)c1c(C)cccc1C							
+Metalaxyl	-1	metalaxyl_-1_1	CO[CH-]C(=O)N(C(C)C(=O)OC)c1c(C)cccc1C	100						
+										
+Perfluorononanoic acid	-1	perfluorononanoicacid_-1_1	[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluorododecanoic acid	-1	perfluorododecanoicacid_-1_1	[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Isoamyl benzoate	0	isoamylbenzoate_0_1	CC(C)CCOC(=O)c1ccccc1	100						
+										
+Benzophenone	0	benzophenone_0_1	O=C(c1ccccc1)c1ccccc1	100						
+										
+2-Ethylhexyl salicylate	0	2-ethylhexylsalicylate_0_1	CCCCCC(CC)OC(=O)c1ccccc1O							
+2-Ethylhexyl salicylate	-1	2-ethylhexylsalicylate_-1_1	CCCCCC(CC)OC(=O)c1ccccc1[O-]	100						
+										
+Homosalate	0	homosalate_0_1	CC1CC(CC(C)(C)C1)OC(=O)c1ccccc1O							
+Homosalate	-1	homosalate_-1_1	CC1CC(CC(C)(C)C1)OC(=O)c1ccccc1[O-]	100						
+										
+Benzophenone-3	0	benzophenone-3_0_1	COc1ccc(C(=O)c2ccccc2)c(O)c1							
+Benzophenone-3	-1	benzophenone-3_-1_1	COc1ccc(C(=O)c2ccccc2)c([O-])c1	100						
+										
+4-Methylbenzylidene-camphor	0	4-methylbenzylidene-camphor_0_1	Cc1ccc(C=C2C3CCC(C)(C2=O)C3(C)C)cc1	100						
+										
+Benzylcinnamate	0	benzylcinnamate_0_1	O=C(OCc1ccccc1)C=Cc1ccccc1	100						
+										
+Heptanal	0	heptanal_0_1	CCCCCCC=O	100						
+										
+2,4,6-trichloroanisole	0	2,4,6-trichloroanisole_0_1	COc1c(Cl)cc(Cl)cc1Cl	100						
+										
+Propanal	0	propanal_0_1	CCC=O	100						
+										
+Dodecanal	0	dodecanal_0_1	CCCCCCCCCCCC=O	100						
+										
+Acetaldehyde	0	acetaldehyde_0_1	CC=O							
+Acetaldehyde	-1	acetaldehyde_-1_1	[CH2-]C=O	100						
+										
+beta-cyclocitral	0	beta-cyclocitral_0_1	CC1=C(C=O)C(C)(C)CCC1	100						
+										
+Nonylphenol diethoxylate	0	nonylphenoldiethoxylate_0_1	CCCCCCCCCc1ccc(OCCOCCO)cc1							
+Nonylphenol diethoxylate	-1	nonylphenoldiethoxylate_-1_1	CCCCCCCCCc1ccc(OCCOCC[O-])cc1	100						
+										
+Tetrabromobisphenol A	0	tetrabromobisphenola_0_1	CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1							
+Tetrabromobisphenol A	-1	tetrabromobisphenola_-1_1	CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c([O-])c(Br)c1							
+Tetrabromobisphenol A	-2	tetrabromobisphenola_-2_1	CC(C)(c1cc(Br)c([O-])c(Br)c1)c1cc(Br)c([O-])c(Br)c1	100						
+										
+Octylphenol	0	octylphenol_0_1	CCCCCCCCc1ccccc1O							
+Octylphenol	-1	octylphenol_-1_1	CCCCCCCCc1ccccc1[O-]	100						
+										
+2,4-Dichlorophenol	0	2,4-dichlorophenol_0_1	Oc1ccc(Cl)cc1Cl							
+2,4-Dichlorophenol	-1	2,4-dichlorophenol_-1_1	[O-]c1ccc(Cl)cc1Cl	100						
+										
+2,4,6-Trichlorophenol	0	2,4,6-trichlorophenol_0_1	Oc1c(Cl)cc(Cl)cc1Cl							
+2,4,6-Trichlorophenol	-1	2,4,6-trichlorophenol_-1_1	[O-]c1c(Cl)cc(Cl)cc1Cl	100						
+										
+benzo(a)pyrene	0	benzo(a)pyrene_0_1	c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34	100						
+										
+Acetylsalicylic Acid	0	acetylsalicylicacid_0_1	CC(=O)Oc1ccccc1C(O)=O							
+Acetylsalicylic Acid	-1	acetylsalicylicacid_-1_1	CC(=O)Oc1ccccc1C([O-])=O	100						
+										
+Erythromycin	1	erythromycin_1_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)[NH+](C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	0	erythromycin_0_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	-1	erythromycin_-1_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)C(C)C([O-])C1(C)O							
+Erythromycin	-1	erythromycin_-1_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	-1	erythromycin_-1_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C(O)C1(C)O							
+Erythromycin	-1	erythromycin_-1_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	-1	erythromycin_-1_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-1	erythromycin_-1_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	-2	erythromycin_-2_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	-2	erythromycin_-2_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C(O)C1(C)O							
+Erythromycin	-2	erythromycin_-2_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-2	erythromycin_-2_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-2	erythromycin_-2_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)C(C)C([O-])C1(C)O							
+Erythromycin	-2	erythromycin_-2_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	-2	erythromycin_-2_8	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	-2	erythromycin_-2_9	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C(O)C1(C)O							
+Erythromycin	-2	erythromycin_-2_10	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)C(C)C([O-])C1(C)[O-]							
+Erythromycin	-2	erythromycin_-2_11	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-2	erythromycin_-2_12	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C(O)C1(C)[O-]							
+Erythromycin	-2	erythromycin_-2_13	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)C(C)C([O-])C1(C)O							
+Erythromycin	-2	erythromycin_-2_14	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C(O)C1(C)O							
+Erythromycin	-2	erythromycin_-2_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)C(C)C([O-])C1(C)O							
+Erythromycin	-3	erythromycin_-3_14	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)C(C)C([O-])C1(C)O							
+Erythromycin	-3	erythromycin_-3_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-3	erythromycin_-3_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)C(C)C([O-])C1(C)O							
+Erythromycin	-3	erythromycin_-3_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)C(C)C(O)C1(C)O							
+Erythromycin	-3	erythromycin_-3_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C(O)C1(C)O							
+Erythromycin	-3	erythromycin_-3_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)C(C)C([O-])C1(C)[O-]							
+Erythromycin	-3	erythromycin_-3_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-3	erythromycin_-3_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C(O)C1(C)[O-]							
+Erythromycin	-3	erythromycin_-3_8	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)C(C)C([O-])C1(C)O							
+Erythromycin	-3	erythromycin_-3_9	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C([O-])C1(C)O							
+Erythromycin	-3	erythromycin_-3_10	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C(O)C1(C)O							
+Erythromycin	-3	erythromycin_-3_11	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)C(C)C([O-])C1(C)[O-]							
+Erythromycin	-3	erythromycin_-3_12	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-3	erythromycin_-3_15	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C(O)C1(C)O							
+Erythromycin	-3	erythromycin_-3_13	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C(O)C1(C)[O-]							
+Erythromycin	-4	erythromycin_-4_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)C(C)C([O-])C1(C)O							
+Erythromycin	-4	erythromycin_-4_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C([O-])C1(C)O							
+Erythromycin	-4	erythromycin_-4_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C(O)C1(C)O							
+Erythromycin	-4	erythromycin_-4_8	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)C(C)C([O-])C1(C)[O-]							
+Erythromycin	-4	erythromycin_-4_9	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C(O)C1(C)[O-]							
+Erythromycin	-4	erythromycin_-4_10	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C([O-])C1(C)O							
+Erythromycin	-4	erythromycin_-4_11	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)C(C)C([O-])C1(C)[O-]							
+Erythromycin	-4	erythromycin_-4_12	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C(O)C1(C)[O-]							
+Erythromycin	-4	erythromycin_-4_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C(O)C1(C)[O-]							
+Erythromycin	-4	erythromycin_-4_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)C(C)C([O-])C1(C)[O-]							
+Erythromycin	-4	erythromycin_-4_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-4	erythromycin_-4_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)C[C-](C)C(=O)C(C)C(O)C1(C)[O-]							
+Erythromycin	-5	erythromycin_-5_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)C(C)C([O-])C1(C)[O-]							
+Erythromycin	-5	erythromycin_-5_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=O)[C-](C)C([O-])C1(C)[O-]							
+Erythromycin	-5	erythromycin_-5_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C(O)C1(C)[O-]							
+Erythromycin	-5	erythromycin_-5_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C([O-])C1(C)O							
+Erythromycin	-6	erythromycin_-6_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=O)[C-](C)C([O-])C1(C)[O-]	100						
+										
+Iopamidol	0	iopamidol_0_1	CC(O)C(=O)Nc1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)NC(CO)CO)c1I							
+Iopamidol	-1	iopamidol_-1_1	CC(O)C(=O)[N-]c1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)NC(CO)CO)c1I							
+Iopamidol	-1	iopamidol_-1_2	CC(O)C(=O)Nc1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-1	iopamidol_-1_3	CC([O-])C(=O)Nc1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)NC(CO)CO)c1I							
+Iopamidol	-2	iopamidol_-2_1	CC(O)C(=O)[N-]c1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-2	iopamidol_-2_2	CC([O-])C(=O)[N-]c1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)NC(CO)CO)c1I							
+Iopamidol	-2	iopamidol_-2_3	CC(O)C(=O)[N-]c1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)NC(CO)C[O-])c1I							
+Iopamidol	-2	iopamidol_-2_4	CC(O)C(=O)Nc1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-2	iopamidol_-2_5	CC([O-])C(=O)Nc1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-3	iopamidol_-3_1	CC(O)C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-3	iopamidol_-3_2	CC([O-])C(=O)[N-]c1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-3	iopamidol_-3_3	CC(O)C(=O)[N-]c1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)[N-]C(CO)C[O-])c1I							
+Iopamidol	-3	iopamidol_-3_4	CC(O)C(=O)[N-]c1c(I)c(C(=O)NC(CO)C[O-])c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-3	iopamidol_-3_5	CC([O-])C(=O)Nc1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-4	iopamidol_-4_1	CC([O-])C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-4	iopamidol_-4_2	CC(O)C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(CO)C[O-])c1I							
+Iopamidol	-4	iopamidol_-4_3	CC([O-])C(=O)[N-]c1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)[N-]C(CO)C[O-])c1I							
+Iopamidol	-4	iopamidol_-4_4	CC([O-])C(=O)[N-]c1c(I)c(C(=O)NC(CO)C[O-])c(I)c(C(=O)[N-]C(CO)CO)c1I							
+Iopamidol	-4	iopamidol_-4_5	CC(O)C(=O)[N-]c1c(I)c(C(=O)NC(CO)C[O-])c(I)c(C(=O)[N-]C(CO)C[O-])c1I							
+Iopamidol	-4	iopamidol_-4_6	CC([O-])C(=O)Nc1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(CO)C[O-])c1I							
+Iopamidol	-5	iopamidol_-5_1	CC([O-])C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(CO)C[O-])c1I							
+Iopamidol	-5	iopamidol_-5_2	CC(O)C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(C[O-])C[O-])c1I							
+Iopamidol	-5	iopamidol_-5_3	CC(O)C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)C[O-])c(I)c(C(=O)[N-]C(CO)C[O-])c1I							
+Iopamidol	-6	iopamidol_-6_1	CC([O-])C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)CO)c(I)c(C(=O)[N-]C(C[O-])C[O-])c1I							
+Iopamidol	-6	iopamidol_-6_2	CC([O-])C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)C[O-])c(I)c(C(=O)[N-]C(CO)C[O-])c1I							
+Iopamidol	-6	iopamidol_-6_3	CC(O)C(=O)[N-]c1c(I)c(C(=O)[N-]C(CO)C[O-])c(I)c(C(=O)[N-]C(C[O-])C[O-])c1I	100						
+										
+Mefenamic acid	1	mefenamicacid_1_1	Cc1cccc([NH2+]c2ccccc2C(O)=O)c1C							
+Mefenamic acid	0	mefenamicacid_0_1	Cc1cccc(Nc2ccccc2C(O)=O)c1C							
+Mefenamic acid	-1	mefenamicacid_-1_1	Cc1cccc(Nc2ccccc2C([O-])=O)c1C	100						
+										
+Oseltamivir	2	oseltamivir_2_1	CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=[OH+])C([NH3+])C1							
+Oseltamivir	1	oseltamivir_1_1	CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C([NH3+])C1							
+Oseltamivir	0	oseltamivir_0_1	CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C(N)C1							
+Oseltamivir	-1	oseltamivir_-1_1	CCOC(=O)C1=CC(OC(CC)CC)C([N-]C(C)=O)C(N)C1	100						
+										
+1,7-dimethylxanthine	1	1,7-dimethylxanthine_1_1	Cn1c[nH+]c2[nH]c(=O)n(C)c(=O)c12							
+1,7-dimethylxanthine	0	1,7-dimethylxanthine_0_1	Cn1cnc2[nH]c(=O)n(C)c(=O)c12							
+1,7-dimethylxanthine	-1	1,7-dimethylxanthine_-1_1	Cn1cnc2[n-]c(=O)n(C)c(=O)c12	100						
+										
+Amoxicillin	1	amoxicillin_1_1	CC1(C)SC2C(NC(=O)C([NH3+])c3ccc(O)cc3)C(=O)N2C1C(O)=O							
+Amoxicillin	0	amoxicillin_0_1	CC1(C)SC2C(NC(=O)C([NH3+])c3ccc(O)cc3)C(=O)N2C1C([O-])=O							
+Amoxicillin	-1	amoxicillin_-1_1	CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C([O-])=O							
+Amoxicillin	-1	amoxicillin_-1_2	CC1(C)SC2C(NC(=O)C([NH3+])c3ccc([O-])cc3)C(=O)N2C1C([O-])=O							
+Amoxicillin	-2	amoxicillin_-2_1	CC1(C)SC2C(NC(=O)C(N)c3ccc([O-])cc3)C(=O)N2C1C([O-])=O							
+Amoxicillin	-2	amoxicillin_-2_2	CC1(C)SC2C([N-]C(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C([O-])=O							
+Amoxicillin	-3	amoxicillin_-3_1	CC1(C)SC2C([N-]C(=O)C(N)c3ccc([O-])cc3)C(=O)N2C1C([O-])=O							
+Amoxicillin	-4	amoxicillin_-4_1	CC1(C)SC2[C-]([N-]C(=O)C(N)c3ccc([O-])cc3)C(=O)N2C1C([O-])=O	100						
+										
+Cefaclor	1	cefaclor_1_1	[NH3+]C(C(=O)NC1C2SCC(Cl)=C(N2C1=O)C(O)=O)c1ccccc1							
+Cefaclor	0	cefaclor_0_1	[NH3+]C(C(=O)NC1C2SCC(Cl)=C(N2C1=O)C([O-])=O)c1ccccc1							
+Cefaclor	-1	cefaclor_-1_1	NC(C(=O)NC1C2SCC(Cl)=C(N2C1=O)C([O-])=O)c1ccccc1							
+Cefaclor	-2	cefaclor_-2_1	NC(C(=O)[N-]C1C2SCC(Cl)=C(N2C1=O)C([O-])=O)c1ccccc1							
+Cefaclor	-2	cefaclor_-2_2	NC(C(=O)N[C-]1C2SCC(Cl)=C(N2C1=O)C([O-])=O)c1ccccc1							
+Cefaclor	-3	cefaclor_-3_1	NC(C(=O)[N-][C-]1C2SCC(Cl)=C(N2C1=O)C([O-])=O)c1ccccc1	100						
+										
+Cefadroxil	1	cefadroxil_1_1	CC1=C(N2C(SC1)C(NC(=O)C([NH3+])c1ccc(O)cc1)C2=O)C(O)=O							
+Cefadroxil	0	cefadroxil_0_1	CC1=C(N2C(SC1)C(NC(=O)C([NH3+])c1ccc(O)cc1)C2=O)C([O-])=O							
+Cefadroxil	-1	cefadroxil_-1_1	CC1=C(N2C(SC1)C(NC(=O)C(N)c1ccc(O)cc1)C2=O)C([O-])=O							
+Cefadroxil	-1	cefadroxil_-1_2	CC1=C(N2C(SC1)C(NC(=O)C([NH3+])c1ccc([O-])cc1)C2=O)C([O-])=O							
+Cefadroxil	-2	cefadroxil_-2_1	CC1=C(N2C(SC1)C(NC(=O)C(N)c1ccc([O-])cc1)C2=O)C([O-])=O							
+Cefadroxil	-2	cefadroxil_-2_2	CC1=C(N2C(SC1)C([N-]C(=O)C(N)c1ccc(O)cc1)C2=O)C([O-])=O							
+Cefadroxil	-3	cefadroxil_-3_1	CC1=C(N2C(SC1)C([N-]C(=O)C(N)c1ccc([O-])cc1)C2=O)C([O-])=O							
+Cefadroxil	-3	cefadroxil_-3_2	CC1=C(N2C(SC1)[C-](NC(=O)C(N)c1ccc([O-])cc1)C2=O)C([O-])=O							
+Cefadroxil	-4	cefadroxil_-4_1	CC1=C(N2C(SC1)[C-]([N-]C(=O)C(N)c1ccc([O-])cc1)C2=O)C([O-])=O	100						
+										
+Cefradine	1	cefradine_1_1	CC1=C(N2C(SC1)C(NC(=O)C([NH3+])C1=CCC=CC1)C2=O)C(O)=O							
+Cefradine	0	cefradine_0_1	CC1=C(N2C(SC1)C(NC(=O)C([NH3+])C1=CCC=CC1)C2=O)C([O-])=O							
+Cefradine	-1	cefradine_-1_1	CC1=C(N2C(SC1)C(NC(=O)C(N)C1=CCC=CC1)C2=O)C([O-])=O							
+Cefradine	-2	cefradine_-2_1	CC1=C(N2C(SC1)C([N-]C(=O)C(N)C1=CCC=CC1)C2=O)C([O-])=O							
+Cefradine	-2	cefradine_-2_2	CC1=C(N2C(SC1)[C-](NC(=O)C(N)C1=CCC=CC1)C2=O)C([O-])=O							
+Cefradine	-3	cefradine_-3_1	CC1=C(N2C(SC1)[C-]([N-]C(=O)C(N)C1=CCC=CC1)C2=O)C([O-])=O	100						
+										
+Cephalexin	1	cephalexin_1_1	CC1=C(N2C(SC1)C(NC(=O)C([NH3+])c1ccccc1)C2=O)C(O)=O							
+Cephalexin	0	cephalexin_0_1	CC1=C(N2C(SC1)C(NC(=O)C([NH3+])c1ccccc1)C2=O)C([O-])=O							
+Cephalexin	-1	cephalexin_-1_1	CC1=C(N2C(SC1)C(NC(=O)C(N)c1ccccc1)C2=O)C([O-])=O							
+Cephalexin	-2	cephalexin_-2_1	CC1=C(N2C(SC1)C([N-]C(=O)C(N)c1ccccc1)C2=O)C([O-])=O							
+Cephalexin	-2	cephalexin_-2_2	CC1=C(N2C(SC1)[C-](NC(=O)C(N)c1ccccc1)C2=O)C([O-])=O							
+Cephalexin	-3	cephalexin_-3_1	CC1=C(N2C(SC1)[C-]([N-]C(=O)C(N)c1ccccc1)C2=O)C([O-])=O	100						
+										
+Ciprofloxacin	2	ciprofloxacin_2_1	OC(=O)C1=C[NH+](C2CC2)c2cc(N3CC[NH2+]CC3)c(F)cc2C1=O							
+Ciprofloxacin	1	ciprofloxacin_1_1	OC(=O)c1cn(C2CC2)c2cc(N3CC[NH2+]CC3)c(F)cc2c1=O							
+Ciprofloxacin	0	ciprofloxacin_0_1	OC(=O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O							
+Ciprofloxacin	0	ciprofloxacin_0_2	[O-]C(=O)c1cn(C2CC2)c2cc(N3CC[NH2+]CC3)c(F)cc2c1=O							
+Ciprofloxacin	-1	ciprofloxacin_-1_1	[O-]C(=O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O	100						
+										
+Diltiazem	1	diltiazem_1_1	COc1ccc(cc1)C1Sc2ccccc2N(CC[NH+](C)C)C(=O)C1OC(C)=O							
+Diltiazem	0	diltiazem_0_1	COc1ccc(cc1)C1Sc2ccccc2N(CCN(C)C)C(=O)C1OC(C)=O							
+Diltiazem	-1	diltiazem_-1_1	COc1ccc(cc1)C1Sc2ccccc2N(CCN(C)C)C(=O)[C-]1OC(C)=O	100						
+										
+Fenbendazole	1	fenbendazole_1_1	COC(=O)Nc1[nH]c2cc(Sc3ccccc3)ccc2[nH+]1							
+Fenbendazole	0	fenbendazole_0_1	COC(=O)Nc1nc2ccc(Sc3ccccc3)cc2[nH]1							
+Fenbendazole	-1	fenbendazole_-1_1	COC(=O)Nc1nc2ccc(Sc3ccccc3)cc2[n-]1							
+Fenbendazole	-1	fenbendazole_-1_2	COC(=O)[N-]c1nc2ccc(Sc3ccccc3)cc2[nH]1							
+Fenbendazole	-2	fenbendazole_-2_1	COC(=O)[N-]c1nc2ccc(Sc3ccccc3)cc2[n-]1	100						
+										
+Florfenicol	0	florfenicol_0_1	CS(=O)(=O)c1ccc(cc1)C(O)C(CF)NC(=O)C(Cl)Cl							
+Florfenicol	-1	florfenicol_-1_1	CS(=O)(=O)c1ccc(cc1)C(O)C(CF)[N-]C(=O)C(Cl)Cl							
+Florfenicol	-2	florfenicol_-2_1	CS(=O)(=O)c1ccc(cc1)C([O-])C(CF)[N-]C(=O)C(Cl)Cl	100						
+										
+Meclocycline	1	meclocycline_1_1	C[NH+](C)C1C2C(O)C3C(=C)c4c(Cl)ccc(O)c4C(=O)C3=C(O)C2(O)C(=O)C(C(N)=O)=C1O							
+Meclocycline	0	meclocycline_0_1	C[NH+](C)C1C2C(O)C3C(=C)c4c(Cl)ccc(O)c4C(=O)C3=C(O)C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-1	meclocycline_-1_2	C[NH+](C)C1C2C(O)C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C(O)C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-1	meclocycline_-1_3	C[NH+](C)C1C2C(O)C3C(=C)c4c(Cl)ccc(O)c4C(=O)C3=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-1	meclocycline_-1_1	CN(C)C1C2C(O)C3C(=C)c4c(Cl)ccc(O)c4C(=O)C3=C(O)C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-2	meclocycline_-2_1	CN(C)C1C2C(O)C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C(O)C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-2	meclocycline_-2_2	CN(C)C1C2C(O)C3C(=C)c4c(Cl)ccc(O)c4C(=O)C3=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-2	meclocycline_-2_3	C[NH+](C)C1C2C(O)C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-3	meclocycline_-3_1	CN(C)C1C2C(O)C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-4	meclocycline_-4_2	CN(C)C1C2C([O-])C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C([O-])C2(O)C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-4	meclocycline_-4_1	CN(C)C1C2C(O)C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C([O-])C2([O-])C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-5	meclocycline_-5_1	CN(C)C1C2C([O-])C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C([O-])C2([O-])C(=O)C(C(N)=O)=C1[O-]							
+Meclocycline	-5	meclocycline_-5_2	CN(C)C1C2C(O)C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C([O-])C2([O-])C(=O)C(C([NH-])=O)=C1[O-]							
+Meclocycline	-6	meclocycline_-6_1	CN(C)C1C2C([O-])C3C(=C)c4c(Cl)ccc([O-])c4C(=O)C3=C([O-])C2([O-])C(=O)C(C([NH-])=O)=C1[O-]	100						
+										
+Pefloxacin	2	pefloxacin_2_1	CC[NH+]1C=C(C(O)=O)C(=O)c2cc(F)c(cc12)N1CC[NH+](C)CC1							
+Pefloxacin	1	pefloxacin_1_1	CCn1cc(C(O)=O)c(=O)c2cc(F)c(cc12)N1CC[NH+](C)CC1							
+Pefloxacin	0	pefloxacin_0_1	CCn1cc(C(O)=O)c(=O)c2cc(F)c(cc12)N1CCN(C)CC1							
+Pefloxacin	0	pefloxacin_0_2	CCn1cc(C([O-])=O)c(=O)c2cc(F)c(cc12)N1CC[NH+](C)CC1							
+Pefloxacin	-1	pefloxacin_-1_1	CCn1cc(C([O-])=O)c(=O)c2cc(F)c(cc12)N1CCN(C)CC1	100						
+										
+Perfluorodecane sulfonic acid	-1	perfluorodecanesulfonicacid_-1_1	[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Perfluorooctanesulfonamide	0	perfluorooctanesulfonamide_0_1	NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+Perfluorooctanesulfonamide	-1	perfluorooctanesulfonamide_-1_1	[NH-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+1H,1H,2H,2H-Perfluoroctyl-1-sulfonic acid	0	1h,1h,2h,2h-perfluoroctyl-1-sulfonicacid_0_1	OS(O)(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+1H,1H,2H,2H-Perfluoroctyl-1-sulfonic acid	-1	1h,1h,2h,2h-perfluoroctyl-1-sulfonicacid_-1_1	OS(O)([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+Microcystin-LR	2	microcystin-lr_2_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCC[NH2+]C(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C(O)=O)C(O)=O							
+Microcystin-LR	1	microcystin-lr_1_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C(O)=O)C(O)=O							
+Microcystin-LR	0	microcystin-lr_0_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C(O)=O							
+Microcystin-LR	0	microcystin-lr_0_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C(O)=O)C([O-])=O							
+Microcystin-LR	-1	microcystin-lr_-1_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-2	microcystin-lr_-2_3	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-2	microcystin-lr_-2_4	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-2	microcystin-lr_-2_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-2	microcystin-lr_-2_5	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-2	microcystin-lr_-2_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C([N-]C(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_8	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C([N-]C(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_3	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C(NC(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_4	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_5	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C([N-]C(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_6	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C([N-]C(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_7	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-3	microcystin-lr_-3_9	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C(NC(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-4	microcystin-lr_-4_6	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C(NC(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-4	microcystin-lr_-4_7	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C([N-]C(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-4	microcystin-lr_-4_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C([N-]C(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-4	microcystin-lr_-4_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C([N-]C(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-4	microcystin-lr_-4_5	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C(NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-4	microcystin-lr_-4_8	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C(NC(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-4	microcystin-lr_-4_3	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C([N-]C(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-4	microcystin-lr_-4_4	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C(NC(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-5	microcystin-lr_-5_3	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C([N-]C(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-5	microcystin-lr_-5_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C([N-]C(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-5	microcystin-lr_-5_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C([N-]C(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-5	microcystin-lr_-5_4	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C(NC(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-5	microcystin-lr_-5_5	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C([N-]C(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Microcystin-LR	-6	microcystin-lr_-6_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C([N-]C(=O)C(CC(C)C)[N-]C(=O)C(C)NC(=O)C(=C)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O	100						
+										
+Anatoxin-a	1	anatoxin-a_1_1	CC(=O)C1=CCCC2CCC1[NH2+]2							
+Anatoxin-a	0	anatoxin-a_0_1	CC(=O)C1=CCCC2CCC1N2	100						
+										
+2,3,7,8-Tetrachlorodibenzo-p-dioxin	0	2,3,7,8-tetrachlorodibenzo-p-dioxin_0_1	O1C=COC=C1	100						
+										
+Nodularin	2	nodularin_2_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCC[NH2+]C(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C(O)=O)C(O)=O							
+Nodularin	1	nodularin_1_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C(O)=O)C(O)=O							
+Nodularin	0	nodularin_0_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C(O)=O							
+Nodularin	0	nodularin_0_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C(O)=O)C([O-])=O							
+Nodularin	-1	nodularin_-1_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-2	nodularin_-2_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-2	nodularin_-2_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C([N-]C(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-2	nodularin_-2_3	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])NC(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-2	nodularin_-2_4	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-3	nodularin_-3_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C([N-]C(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-3	nodularin_-3_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-3	nodularin_-3_3	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-3	nodularin_-3_4	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C([N-]C(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-3	nodularin_-3_5	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-4	nodularin_-4_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)NC(=O)C(C)C([N-]C(=O)C(=CC)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-4	nodularin_-4_2	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C([N-]C(=O)C(=CC)N(C)C(=O)CCC(NC(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-4	nodularin_-4_3	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C(NC(=O)C(=CC)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-4	nodularin_-4_4	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=[NH2+])[N-]C(=O)C(C)C([N-]C(=O)C(=CC)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O							
+Nodularin	-5	nodularin_-5_1	COC(Cc1ccccc1)C(C)C=C(C)C=CC1NC(=O)C(CCCNC(N)=N)[N-]C(=O)C(C)C([N-]C(=O)C(=CC)N(C)C(=O)CCC([N-]C(=O)C1C)C([O-])=O)C([O-])=O	100						
+										
+Geosmin	1	geosmin_1_1	CC1CCCC2(C)CCCCC12[OH2+]							
+Geosmin	0	geosmin_0_1	CC1CCCC2(C)CCCCC12O	100						
+										
+2-MIB	1	2-mib_1_1	CC1(C)C2CCC1(C)C(C)([OH2+])C2							
+2-MIB	0	2-mib_0_1	CC1(C)C2CCC1(C)C(C)(O)C2	100						
+										
+Chlorite	1	chlorite_1_1	O[Cl+]O							
+Chlorite	0	chlorite_0_1	O[Cl+][O-]							
+Chlorite	-1	chlorite_-1_1	[O-][Cl+][O-]	100						
+										
+Di(2-ethylhexyl) adipate	0	di(2-ethylhexyl)adipate_0_1	CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC	100						
+										
+Di(2-ethylhexyl)phthalate	0	di(2-ethylhexyl)phthalate_0_1	CCCCC(CC)OC(=O)c1ccccc1C(=O)OC(CC)CCCC	100						
+										
+Vancomycin	2	vancomycin_2_1	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C(NC5=O)C(O)=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	1	vancomycin_1_1	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	0	vancomycin_0_1	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	0	vancomycin_0_2	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	0	vancomycin_0_4	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	0	vancomycin_0_5	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	0	vancomycin_0_3	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	0	vancomycin_0_6	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	0	vancomycin_0_7	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_14	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_15	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_16	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_3	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_17	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_1	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_2	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_5	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_4	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_6	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_7	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_8	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_9	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_10	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_11	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_12	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-1	vancomycin_-1_13	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_21	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_11	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_1	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_2	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_3	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_4	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_5	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_6	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_7	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_8	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_9	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_10	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_12	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_13	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_14	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_15	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_16	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_17	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_18	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_19	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_20	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_22	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-2	vancomycin_-2_23	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_19	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_1	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_2	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_3	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_4	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_5	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_6	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_7	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_8	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_9	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_10	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_12	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_13	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_14	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_15	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_16	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_17	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_20	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_21	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_22	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_23	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_24	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_11	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-3	vancomycin_-3_18	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_7	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_8	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_9	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c(O)cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_10	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_11	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_12	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_14	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_15	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_16	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_17	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_4	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_3	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_2	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_1	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_13	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_5	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-4	vancomycin_-4_6	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-5	vancomycin_-5_7	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)([NH3+])C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-5	vancomycin_-5_1	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C(NC(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-5	vancomycin_-5_2	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C(NC5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-5	vancomycin_-5_3	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc(O)c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-5	vancomycin_-5_4	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc(O)cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-5	vancomycin_-5_5	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c(O)cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-5	vancomycin_-5_6	C[NH2+]C(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2							
+Vancomycin	-6	vancomycin_-6_1	CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C5NC(=O)C([N-]C(=O)C4NC(=O)C(CC(N)=O)NC1=O)c1ccc([O-])c(c1)-c1c([O-])cc([O-])cc1C([N-]C5=O)C([O-])=O)c3OC1OC(CO)C(O)C(O)C1OC1CC(C)(N)C(O)C(C)O1)c(Cl)c2	100						
+										
+Chloral hydrate	0	chloralhydrate_0_1	OC(O)C(Cl)(Cl)Cl							
+Chloral hydrate	-1	chloralhydrate_-1_1	OC([O-])C(Cl)(Cl)Cl							
+Chloral hydrate	-2	chloralhydrate_-2_1	[O-]C([O-])C(Cl)(Cl)Cl	100						
+										
+2,4-Dichlorophenoxyacetic acid	0	2,4-dichlorophenoxyaceticacid_0_1	OC(=O)COc1ccc(Cl)cc1Cl							
+2,4-Dichlorophenoxyacetic acid	-1	2,4-dichlorophenoxyaceticacid_-1_1	[O-]C(=O)COc1ccc(Cl)cc1Cl	100						
+										
+Ethylenedibromide	0	ethylenedibromide_0_1	BrCCBr	100						
+										
+Isoproturon	0	isoproturon_0_1	CC(C)c1ccc(NC(=O)N(C)C)cc1							
+Isoproturon	-1	isoproturon_-1_1	CC(C)c1ccc([N-]C(=O)N(C)C)cc1	100						
+										
+Simazine	1	simazine_1_1	CCNc1nc(Cl)[nH+]c(NCC)n1							
+Simazine	1	simazine_1_2	CCNc1nc(Cl)nc(NCC)[nH+]1							
+Simazine	0	simazine_0_1	CCNc1nc(Cl)nc(NCC)n1							
+Simazine	-1	simazine_-1_1	CCNc1nc(Cl)nc([N-]CC)n1							
+Simazine	-2	simazine_-2_1	CC[N-]c1nc(Cl)nc([N-]CC)n1	100						
+										
+Trifluralin	0	trifluralin_0_1	CCCN(CCC)c1c(cc(cc1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O	100						
+										
+Alachlor	0	alachlor_0_1	CCc1cccc(CC)c1N(COC)C(=O)CCl							
+Alachlor	-1	alachlor_-1_1	CCc1cccc(CC)c1N(COC)C(=O)[CH-]Cl	100						
+										
+Aldicarb	1	aldicarb_1_1	CNC(=O)O[NH+]=CC(C)(C)SC							
+Aldicarb	0	aldicarb_0_1	CNC(=O)ON=CC(C)(C)SC							
+Aldicarb	-1	aldicarb_-1_1	C[N-]C(=O)ON=CC(C)(C)SC	100						
+										
+Aldrin	0	aldrin_0_1	ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl	100						
+										
+Chlorpyrifos	0	chlorpyrifos_0_1	CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl	100						
+										
+Dimethoate	1	dimethoate_1_1	COP(=S)(OC)SCC(O)=[NH+]C							
+Dimethoate	0	dimethoate_0_1	COP(=S)(OC)SCC([O-])=[NH+]C							
+Dimethoate	-1	dimethoate_-1_1	COP(=S)(OC)SCC([O-])=NC	100						
+										
+Dinoseb	0	dinoseb_0_1	CCC(C)c1cc(cc(c1O)[N+]([O-])=O)[N+]([O-])=O							
+Dinoseb	-1	dinoseb_-1_1	CCC(C)c1cc(cc(c1[O-])[N+]([O-])=O)[N+]([O-])=O	100						
+										
+Endrin	0	endrin_0_1	ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl	100						
+										
+Heptachlor	0	heptachlor_0_1	ClC1C=CC2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl	100						
+										
+Heptachlor epoxide	0	heptachlorepoxide_0_1	ClC1C2OC2C2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl	100						
+										
+2-Methyl-4-chlorophenoxyacetic acid	0	2-methyl-4-chlorophenoxyaceticacid_0_1	Cc1cc(Cl)ccc1OCC(O)=O							
+2-Methyl-4-chlorophenoxyacetic acid	-1	2-methyl-4-chlorophenoxyaceticacid_-1_1	Cc1cc(Cl)ccc1OCC([O-])=O	100						
+										
+Mecoprop	0	mecoprop_0_1	CC(Oc1ccc(Cl)cc1C)C(O)=O							
+Mecoprop	-1	mecoprop_-1_1	CC(Oc1ccc(Cl)cc1C)C([O-])=O	100						
+										
+Carbofuran	0	carbofuran_0_1	CNC(=O)Oc1cccc2CC(C)(C)Oc12							
+Carbofuran	-1	carbofuran_-1_1	C[N-]C(=O)Oc1cccc2CC(C)(C)Oc12	100						
+										
+Dalapon	0	dalapon_0_1	CC(Cl)(Cl)C(O)=O							
+Dalapon	-1	dalapon_-1_1	CC(Cl)(Cl)C([O-])=O	100						
+										
+Endothall	0	endothall_0_1	OC(=O)C1C2CCC(O2)C1C(O)=O							
+Endothall	-1	endothall_-1_2	OC(=O)C1C2CCC(O2)C1C([O-])=O							
+Endothall	-2	endothall_-2_1	[O-]C(=O)C1C2CCC(O2)C1C([O-])=O	100						
+										
+Epichlorohydrin	0	epichlorohydrin_0_1	ClCC1CO1	100						
+										
+Fenoprop	0	fenoprop_0_1	CC(Oc1cc(Cl)c(Cl)cc1Cl)C(O)=O							
+Fenoprop	-1	fenoprop_-1_1	CC(Oc1cc(Cl)c(Cl)cc1Cl)C([O-])=O	100						
+										
+Glyphosate	1	glyphosate_1_1	OC(=O)C[NH2+]CP(O)(O)=O							
+Glyphosate	0	glyphosate_0_1	OC(=O)C[NH2+]CP(O)([O-])=O							
+Glyphosate	-1	glyphosate_-1_1	OC(=O)CNCP(O)([O-])=O							
+Glyphosate	-1	glyphosate_-1_2	OP([O-])(=O)C[NH2+]CC([O-])=O							
+Glyphosate	-2	glyphosate_-2_1	OP([O-])(=O)CNCC([O-])=O							
+Glyphosate	-2	glyphosate_-2_2	[O-]C(=O)C[NH2+]CP([O-])([O-])=O							
+Glyphosate	-3	glyphosate_-3_1	[O-]C(=O)CNCP([O-])([O-])=O	100						
+										
+Hexachlorocyclopentadiene	0	hexachlorocyclopentadiene_0_1	ClC1=C(Cl)C(Cl)(Cl)C(Cl)=C1Cl	100						
+										
+Oxamyl	1	oxamyl_1_1	CNC(=O)O[NH+]=C(SC)C(=O)N(C)C							
+Oxamyl	0	oxamyl_0_1	CNC(=O)ON=C(SC)C(=O)N(C)C							
+Oxamyl	-1	oxamyl_-1_1	C[N-]C(=O)ON=C(SC)C(=O)N(C)C	100						
+										
+Picloram	1	picloram_1_1	Nc1c(Cl)c(Cl)[nH+]c(C(O)=O)c1Cl							
+Picloram	0	picloram_0_1	Nc1c(Cl)c(Cl)nc(C(O)=O)c1Cl							
+Picloram	0	picloram_0_2	Nc1c(Cl)c(Cl)[nH+]c(C([O-])=O)c1Cl							
+Picloram	-1	picloram_-1_1	Nc1c(Cl)c(Cl)nc(C([O-])=O)c1Cl	100						
+										
+4-(2,4-dichlorophenoxy)butyric acid	0	4-(2,4-dichlorophenoxy)butyricacid_0_1	OC(=O)CCCOc1ccc(Cl)cc1Cl							
+4-(2,4-dichlorophenoxy)butyric acid	-1	4-(2,4-dichlorophenoxy)butyricacid_-1_1	[O-]C(=O)CCCOc1ccc(Cl)cc1Cl	100						
+										
+Bentazon	0	bentazon_0_1	CC(C)N1C(=O)c2ccccc2NS1(=O)=O							
+Bentazon	-1	bentazon_-1_1	CC(C)N1C(=O)c2ccccc2[N-]S1(=O)=O	100						
+										
+Bifenox	0	bifenox_0_1	COC(=O)c1cc(Oc2ccc(Cl)cc2Cl)ccc1[N+]([O-])=O	100						
+										
+Chlordane	0	chlordane_0_1	ClC1CC2C(C1Cl)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl	100						
+										
+Chlorothalonil	0	chlorothalonil_0_1	Clc1c(Cl)c(C#N)c(Cl)c(C#N)c1Cl	100						
+										
+Cyanazine	1	cyanazine_1_1	CCNc1nc(Cl)[nH+]c(NC(C)(C)C#N)n1							
+Cyanazine	1	cyanazine_1_2	CCNc1nc(NC(C)(C)C#N)nc(Cl)[nH+]1							
+Cyanazine	1	cyanazine_1_3	CCNc1nc(Cl)nc(NC(C)(C)C#N)[nH+]1							
+Cyanazine	0	cyanazine_0_1	CCNc1nc(Cl)nc(NC(C)(C)C#N)n1							
+Cyanazine	-1	cyanazine_-1_1	CC[N-]c1nc(Cl)nc(NC(C)(C)C#N)n1							
+Cyanazine	-1	cyanazine_-1_2	CCNc1nc(Cl)nc([N-]C(C)(C)C#N)n1							
+Cyanazine	-2	cyanazine_-2_1	CC[N-]c1nc(Cl)nc([N-]C(C)(C)C#N)n1	100						
+										
+Cypermethrin	0	cypermethrin_0_1	CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1							
+Cypermethrin	-1	cypermethrin_-1_1	CC1(C)C(C=C(Cl)Cl)C1C(=O)O[C-](C#N)c1cccc(Oc2ccccc2)c1	100						
+										
+Dichlorprop	0	dichlorprop_0_1	CC(Oc1ccc(Cl)cc1Cl)C(O)=O							
+Dichlorprop	-1	dichlorprop_-1_1	CC(Oc1ccc(Cl)cc1Cl)C([O-])=O	100						
+										
+Dichlorvos	0	dichlorvos_0_1	COP(=O)(OC)OC=C(Cl)Cl	100						
+										
+Dicofol	0	dicofol_0_1	OC(c1ccc(Cl)cc1)(c1ccc(Cl)cc1)C(Cl)(Cl)Cl							
+Dicofol	-1	dicofol_-1_1	[O-]C(c1ccc(Cl)cc1)(c1ccc(Cl)cc1)C(Cl)(Cl)Cl	100						
+										
+Methoxychlor	0	methoxychlor_0_1	COc1ccc(cc1)C(c1ccc(OC)cc1)C(Cl)(Cl)Cl	100						
+										
+Toxaphene	0	toxaphene_0_1	CC1(C)C(=C)C2(Cl)C(Cl)(Cl)C(Cl)(Cl)C1(Cl)C2(Cl)Cl	100						
+										
+Tricyclazole	1	tricyclazole_1_1	Cc1cccc2sc3[nH+]ncn3c12							
+Tricyclazole	1	tricyclazole_1_2	Cc1cccc2sc3n[nH+]cn3c12							
+Tricyclazole	0	tricyclazole_0_1	Cc1cccc2sc3nncn3c12	100						
+										
+Aclonifen	0	aclonifen_0_1	Nc1c(Cl)c(Oc2ccccc2)ccc1[N+]([O-])=O							
+Aclonifen	-1	aclonifen_-1_1	[NH-]c1c(Cl)c(Oc2ccccc2)ccc1[N+]([O-])=O	100						
+										
+Chlorfenvinphos	0	chlorfenvinphos_0_1	CCOP(=O)(OCC)OC(=CCl)c1ccc(Cl)cc1Cl	100						
+										
+Cybutryne	2	cybutryne_2_1	CSc1nc(NC2CC2)[nH+]c(NC(C)(C)C)[nH+]1							
+Cybutryne	2	cybutryne_2_2	CSc1nc(NC(C)(C)C)[nH+]c(NC2CC2)[nH+]1							
+Cybutryne	2	cybutryne_2_3	CSc1[nH+]c(NC2CC2)nc(NC(C)(C)C)[nH+]1							
+Cybutryne	1	cybutryne_1_1	CSc1nc(NC2CC2)[nH+]c(NC(C)(C)C)n1							
+Cybutryne	1	cybutryne_1_2	CSc1nc(NC2CC2)nc(NC(C)(C)C)[nH+]1							
+Cybutryne	1	cybutryne_1_3	CSc1nc(NC(C)(C)C)nc(NC2CC2)[nH+]1							
+Cybutryne	0	cybutryne_0_1	CSc1nc(NC2CC2)nc(NC(C)(C)C)n1							
+Cybutryne	-1	cybutryne_-1_1	CSc1nc(NC2CC2)nc([N-]C(C)(C)C)n1							
+Cybutryne	-1	cybutryne_-1_2	CSc1nc(NC(C)(C)C)nc([N-]C2CC2)n1							
+Cybutryne	-2	cybutryne_-2_1	CSc1nc([N-]C2CC2)nc([N-]C(C)(C)C)n1	100						
+										
+Terbutryn	2	terbutryn_2_1	CCN=c1[nH+]c(NC(C)(C)C)[nH]c(SC)[nH+]1							
+Terbutryn	1	terbutryn_1_1	CCN=c1nc(SC)[nH]c(NC(C)(C)C)[nH+]1							
+Terbutryn	0	terbutryn_0_1	CCN=c1nc(NC(C)(C)C)[nH]c(SC)n1							
+Terbutryn	0	terbutryn_0_2	CCN=c1nc(SC)[n-]c(NC(C)(C)C)[nH+]1							
+Terbutryn	-1	terbutryn_-1_1	CCN=c1nc(NC(C)(C)C)[n-]c(SC)n1	100						
+										
+Hexachlorobenzene	0	hexachlorobenzene_0_1	Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl	100						
+										
+Ethylenediaminetetraacetic acid	2	ethylenediaminetetraaceticacid_2_1	OC(=O)C[NH+](CC[NH+](CC(O)=O)CC(O)=O)CC(O)=O							
+Ethylenediaminetetraacetic acid	1	ethylenediaminetetraaceticacid_1_2	OC(=O)C[NH+](CC[NH+](CC(O)=O)CC([O-])=O)CC(O)=O							
+Ethylenediaminetetraacetic acid	1	ethylenediaminetetraaceticacid_1_1	OC(=O)CN(CC[NH+](CC(O)=O)CC(O)=O)CC(O)=O							
+Ethylenediaminetetraacetic acid	0	ethylenediaminetetraaceticacid_0_3	OC(=O)C[NH+](CC[NH+](CC(O)=O)CC([O-])=O)CC([O-])=O							
+Ethylenediaminetetraacetic acid	0	ethylenediaminetetraaceticacid_0_4	OC(=O)C[NH+](CC[NH+](CC([O-])=O)CC([O-])=O)CC(O)=O							
+Ethylenediaminetetraacetic acid	0	ethylenediaminetetraaceticacid_0_1	OC(=O)CN(CC[NH+](CC(O)=O)CC([O-])=O)CC(O)=O							
+Ethylenediaminetetraacetic acid	0	ethylenediaminetetraaceticacid_0_2	OC(=O)CN(CC[NH+](CC(O)=O)CC(O)=O)CC([O-])=O							
+Ethylenediaminetetraacetic acid	-1	ethylenediaminetetraaceticacid_-1_2	OC(=O)CN(CC[NH+](CC([O-])=O)CC([O-])=O)CC(O)=O							
+Ethylenediaminetetraacetic acid	-1	ethylenediaminetetraaceticacid_-1_3	OC(=O)C[NH+](CCN(CC([O-])=O)CC([O-])=O)CC(O)=O							
+Ethylenediaminetetraacetic acid	-1	ethylenediaminetetraaceticacid_-1_4	OC(=O)C[NH+](CC[NH+](CC([O-])=O)CC([O-])=O)CC([O-])=O							
+Ethylenediaminetetraacetic acid	-1	ethylenediaminetetraaceticacid_-1_1	OC(=O)CN(CC[NH+](CC(O)=O)CC([O-])=O)CC([O-])=O							
+Ethylenediaminetetraacetic acid	-2	ethylenediaminetetraaceticacid_-2_2	OC(=O)CN(CC[NH+](CC([O-])=O)CC([O-])=O)CC([O-])=O							
+Ethylenediaminetetraacetic acid	-2	ethylenediaminetetraaceticacid_-2_3	[O-]C(=O)C[NH+](CC[NH+](CC([O-])=O)CC([O-])=O)CC([O-])=O							
+Ethylenediaminetetraacetic acid	-2	ethylenediaminetetraaceticacid_-2_1	OC(=O)C[NH+](CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O							
+Ethylenediaminetetraacetic acid	-3	ethylenediaminetetraaceticacid_-3_1	[O-]C(=O)CN(CC[NH+](CC([O-])=O)CC([O-])=O)CC([O-])=O							
+Ethylenediaminetetraacetic acid	-4	ethylenediaminetetraaceticacid_-4_1	[O-]C(=O)CN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O	100						
+										
+Dimethyl Sulfide	0	dimethylsulfide_0_1	CSC	100						
+										
+Dimethyl disulfide	0	dimethyldisulfide_0_1	CSSC	100						
+										
+Styrene	0	styrene_0_1	C=Cc1ccccc1	100						
+										
+Mercaptan	0	mercaptan_0_1	CS							
+Mercaptan	-1	mercaptan_-1_1	C[S-]	100						
+										
+Hydrazine	2	hydrazine_2_1	[NH3+][NH3+]							
+Hydrazine	1	hydrazine_1_1	N[NH3+]							
+Hydrazine	0	hydrazine_0_1	NN	100						
+										
+Quinoline	1	quinoline_1_1	c1ccc2[nH+]cccc2c1							
+Quinoline	0	quinoline_0_1	c1ccc2ncccc2c1	100						
+										
+Triglyme	0	triglyme_0_1	COCCOCCOCCOC	100						
+										
+Acrylamide	1	acrylamide_1_1	NC(=[OH+])C=C							
+Acrylamide	0	acrylamide_0_1	NC(=O)C=C							
+Acrylamide	-1	acrylamide_-1_1	[NH-]C(=O)C=C	100						
+										
+1,1-Dichloropropanone	0	1,1-dichloropropanone_0_1	CC(=O)C(Cl)Cl							
+1,1-Dichloropropanone	-1	1,1-dichloropropanone_-1_1	CC(=O)[C-](Cl)Cl	100						
+										
+Bromochloroacetic acid	0	bromochloroaceticacid_0_1	OC(=O)C(Cl)Br							
+Bromochloroacetic acid	-1	bromochloroaceticacid_-1_1	[O-]C(=O)C(Cl)Br	100						
+										
+Dichloroacetaldehyde	0	dichloroacetaldehyde_0_1	ClC(Cl)C=O							
+Dichloroacetaldehyde	-1	dichloroacetaldehyde_-1_1	Cl[C-](Cl)C=O	100						
+										
+Bromochloroacetonitrile	0	bromochloroacetonitrile_0_1	ClC(Br)C#N	100						
+										
+1,2-Diphenylhydrazine	0	1,2-diphenylhydrazine_0_1	N(Nc1ccccc1)c1ccccc1	100						
+										
+DCPA di-acid degradate	0	dcpadi-aciddegradate_0_1	OC(=O)c1c(Cl)c(Cl)c(C(O)=O)c(Cl)c1Cl							
+DCPA di-acid degradate	-1	dcpadi-aciddegradate_-1_1	OC(=O)c1c(Cl)c(Cl)c(C([O-])=O)c(Cl)c1Cl							
+DCPA di-acid degradate	-2	dcpadi-aciddegradate_-2_1	[O-]C(=O)c1c(Cl)c(Cl)c(C([O-])=O)c(Cl)c1Cl	100						
+										
+DCPA mono-acid degradate	0	dcpamono-aciddegradate_0_1	COC(=O)c1c(Cl)c(Cl)c(C(O)=O)c(Cl)c1Cl							
+DCPA mono-acid degradate	-1	dcpamono-aciddegradate_-1_1	COC(=O)c1c(Cl)c(Cl)c(C([O-])=O)c(Cl)c1Cl	100						
+										
+RDX	0	rdx_0_1	[O-][N+](=O)N1CN(CN(C1)[N+]([O-])=O)[N+]([O-])=O	100						
+										
+4-Chlorotoluene	0	4-chlorotoluene_0_1	Cc1ccc(Cl)cc1	100						
+										
+N-acetylsulfamethazine	1	n-acetylsulfamethazine_1_1	CC(=O)N(c1nc(C)cc(C)n1)S(=O)(=O)c1ccc([NH3+])cc1							
+N-acetylsulfamethazine	0	n-acetylsulfamethazine_0_1	CC(=O)N(c1nc(C)cc(C)n1)S(=O)(=O)c1ccc(N)cc1	100						
+										
+Mestranol	1	mestranol_1_1	COc1ccc2C3CCC4(C)C(CCC4([OH2+])C#C)C3CCc2c1							
+Mestranol	0	mestranol_0_1	COc1ccc2C3CCC4(C)C(CCC4(O)C#C)C3CCc2c1	100						
+										
+Norethindrone	1	norethindrone_1_1	CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2([OH2+])C#C							
+Norethindrone	0	norethindrone_0_1	CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C	100						
+										
+Equilin	0	equilin_0_1	CC12CCC3C(=CCc4cc(O)ccc34)C1CCC2=O							
+Equilin	-1	equilin_-1_1	CC12CCC3C(=CCc4cc([O-])ccc34)C1CCC2=O	100						
+										
+Roxithromycin	2	roxithromycin_2_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)[NH+](C)C)C(C)(O)CC(C)C(=[NH+]OCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	1	roxithromycin_1_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)[NH+](C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	0	roxithromycin_0_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	0	roxithromycin_0_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])[NH+](C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	-1	roxithromycin_-1_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)O							
+Roxithromycin	-1	roxithromycin_-1_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	-1	roxithromycin_-1_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	-1	roxithromycin_-1_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	-1	roxithromycin_-1_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)[O-]							
+Roxithromycin	-2	roxithromycin_-2_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	-2	roxithromycin_-2_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)[O-]							
+Roxithromycin	-2	roxithromycin_-2_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)O							
+Roxithromycin	-2	roxithromycin_-2_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	-2	roxithromycin_-2_9	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)[O-]							
+Roxithromycin	-2	roxithromycin_-2_10	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)O							
+Roxithromycin	-2	roxithromycin_-2_8	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)[O-]							
+Roxithromycin	-2	roxithromycin_-2_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	-2	roxithromycin_-2_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)[O-]							
+Roxithromycin	-2	roxithromycin_-2_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)O							
+Roxithromycin	-3	roxithromycin_-3_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)[O-]							
+Roxithromycin	-3	roxithromycin_-3_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)O							
+Roxithromycin	-3	roxithromycin_-3_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)[O-]							
+Roxithromycin	-3	roxithromycin_-3_8	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)[O-]							
+Roxithromycin	-3	roxithromycin_-3_9	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)O							
+Roxithromycin	-3	roxithromycin_-3_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)[O-]							
+Roxithromycin	-3	roxithromycin_-3_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)O							
+Roxithromycin	-3	roxithromycin_-3_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O							
+Roxithromycin	-3	roxithromycin_-3_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)[O-]							
+Roxithromycin	-4	roxithromycin_-4_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)[O-]							
+Roxithromycin	-4	roxithromycin_-4_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)[O-]							
+Roxithromycin	-4	roxithromycin_-4_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)[O-]							
+Roxithromycin	-4	roxithromycin_-4_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)O							
+Roxithromycin	-4	roxithromycin_-4_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)[O-]							
+Roxithromycin	-5	roxithromycin_-5_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)C(=NOCOCCOC)C(C)C([O-])C1(C)[O-]	100						
+										
+Sotalol	1	sotalol_1_1	CC(C)[NH2+]CC(O)c1ccc(NS(C)(=O)=O)cc1							
+Sotalol	0	sotalol_0_1	CC(C)NCC(O)c1ccc(NS(C)(=O)=O)cc1							
+Sotalol	0	sotalol_0_2	CC(C)[NH2+]CC(O)c1ccc([N-]S(C)(=O)=O)cc1							
+Sotalol	-1	sotalol_-1_1	CC(C)NCC(O)c1ccc([N-]S(C)(=O)=O)cc1							
+Sotalol	-2	sotalol_-2_1	CC(C)NCC([O-])c1ccc([N-]S(C)(=O)=O)cc1	100						
+										
+Chloridazon	1	chloridazon_1_1	[NH3+]c1cnn(-c2ccccc2)c(=O)c1Cl							
+Chloridazon	0	chloridazon_0_1	Nc1cnn(-c2ccccc2)c(=O)c1Cl	100						
+										
+Desethylterbutylazine	1	desethylterbutylazine_1_1	CC(C)(C)Nc1nc(N)nc(Cl)[nH+]1							
+Desethylterbutylazine	1	desethylterbutylazine_1_2	CC(C)(C)Nc1nc(N)[nH+]c(Cl)n1							
+Desethylterbutylazine	1	desethylterbutylazine_1_3	CC(C)(C)Nc1nc(Cl)nc(N)[nH+]1							
+Desethylterbutylazine	0	desethylterbutylazine_0_1	CC(C)(C)Nc1nc(N)nc(Cl)n1							
+Desethylterbutylazine	-1	desethylterbutylazine_-1_1	CC(C)(C)[N-]c1nc(N)nc(Cl)n1							
+Desethylterbutylazine	-1	desethylterbutylazine_-1_2	CC(C)(C)Nc1nc([NH-])nc(Cl)n1							
+Desethylterbutylazine	-2	desethylterbutylazine_-2_1	CC(C)(C)[N-]c1nc([NH-])nc(Cl)n1	100						
+										
+Deisopropylatrazine	1	deisopropylatrazine_1_1	CCNc1nc(N)nc(Cl)[nH+]1							
+Deisopropylatrazine	1	deisopropylatrazine_1_2	CCNc1nc(N)[nH+]c(Cl)n1							
+Deisopropylatrazine	1	deisopropylatrazine_1_3	CCNc1nc(Cl)nc(N)[nH+]1							
+Deisopropylatrazine	0	deisopropylatrazine_0_1	CCNc1nc(N)nc(Cl)n1							
+Deisopropylatrazine	-1	deisopropylatrazine_-1_1	CC[N-]c1nc(N)nc(Cl)n1							
+Deisopropylatrazine	-1	deisopropylatrazine_-1_2	CCNc1nc([NH-])nc(Cl)n1	100						
+										
+Diatrizoic acid	0	diatrizoicacid_0_1	CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(O)=O)c1I							
+Diatrizoic acid	-1	diatrizoicacid_-1_1	CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C([O-])=O)c1I							
+Diatrizoic acid	-2	diatrizoicacid_-2_1	CC(=O)Nc1c(I)c([N-]C(C)=O)c(I)c(C([O-])=O)c1I							
+Diatrizoic acid	-3	diatrizoicacid_-3_1	CC(=O)[N-]c1c(I)c([N-]C(C)=O)c(I)c(C([O-])=O)c1I	100						
+										
+Dinoterb	0	dinoterb_0_1	CC(C)(C)c1cc(cc(c1O)[N+]([O-])=O)[N+]([O-])=O							
+Dinoterb	-1	dinoterb_-1_1	CC(C)(C)c1cc(cc(c1[O-])[N+]([O-])=O)[N+]([O-])=O	100						
+										
+Dinitro-ortho-cresol	0	dinitro-ortho-cresol_0_1	Cc1cc(cc(c1O)[N+]([O-])=O)[N+]([O-])=O							
+Dinitro-ortho-cresol	-1	dinitro-ortho-cresol_-1_1	Cc1cc(cc(c1[O-])[N+]([O-])=O)[N+]([O-])=O	100						
+										
+Chlorotoluron	0	chlorotoluron_0_1	CN(C)C(=O)Nc1ccc(C)c(Cl)c1							
+Chlorotoluron	-1	chlorotoluron_-1_1	CN(C)C(=O)[N-]c1ccc(C)c(Cl)c1	100						
+										
+Terbutylazine	1	terbutylazine_1_3	CCNc1nc(Cl)nc(NC(C)(C)C)[nH+]1							
+Terbutylazine	1	terbutylazine_1_1	CCNc1nc(Cl)[nH+]c(NC(C)(C)C)n1							
+Terbutylazine	1	terbutylazine_1_2	CCNc1nc(NC(C)(C)C)nc(Cl)[nH+]1							
+Terbutylazine	0	terbutylazine_0_1	CCNc1nc(Cl)nc(NC(C)(C)C)n1							
+Terbutylazine	-1	terbutylazine_-1_2	CC[N-]c1nc(Cl)nc(NC(C)(C)C)n1							
+Terbutylazine	-1	terbutylazine_-1_1	CCNc1nc(Cl)nc([N-]C(C)(C)C)n1							
+Terbutylazine	-2	terbutylazine_-2_1	CC[N-]c1nc(Cl)nc([N-]C(C)(C)C)n1	100						
+										
+Azinphos-methyl	0	azinphos-methyl_0_1	COP(=S)(OC)SCn1nnc2ccccc2c1=O	100						
+										
+Captan	0	captan_0_1	ClC(Cl)(Cl)SN1C(=O)C2CC=CCC2C1=O	100						
+										
+Fenthion	0	fenthion_0_1	COP(=S)(OC)Oc1ccc(SC)c(C)c1	100						
+										
+Metolachlor	0	metolachlor_0_1	CCc1cccc(C)c1N(C(C)COC)C(=O)CCl							
+Metolachlor	-1	metolachlor_-1_1	CCc1cccc(C)c1N(C(C)COC)C(=O)[CH-]Cl	100						
+										
+Molinate	0	molinate_0_1	CCSC(=O)N1CCCCCC1	100						
+										
+Permethrin	0	permethrin_0_1	CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1	100						
+										
+Profenofos	0	profenofos_0_1	CCCSP(=O)(OCC)Oc1ccc(Br)cc1Cl	100						
+										
+Tebuconazole	1	tebuconazole_1_1	CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn1cnc[nH+]1							
+Tebuconazole	1	tebuconazole_1_2	CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn1c[nH+]cn1							
+Tebuconazole	0	tebuconazole_0_1	CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn1cncn1							
+Tebuconazole	-1	tebuconazole_-1_1	CC(C)(C)C([O-])(CCc1ccc(Cl)cc1)Cn1cncn1	100						
+										
+Tebufenozide	0	tebufenozide_0_1	CCc1ccc(cc1)C(=O)NN(C(=O)c1cc(C)cc(C)c1)C(C)(C)C							
+Tebufenozide	-1	tebufenozide_-1_1	CCc1ccc(cc1)C(=O)[N-]N(C(=O)c1cc(C)cc(C)c1)C(C)(C)C	100						
+										
+Thiobencarb	0	thiobencarb_0_1	CCN(CC)C(=O)SCc1ccc(Cl)cc1	100						
+										
+Tolclofos-methyl	0	tolclofos-methyl_0_1	COP(=S)(OC)Oc1c(Cl)cc(C)cc1Cl	100						
+										
+Triadimefon	1	triadimefon_1_1	CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cnc[nH+]1							
+Triadimefon	1	triadimefon_1_2	CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1c[nH+]cn1							
+Triadimefon	0	triadimefon_0_1	CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cncn1	100						
+										
+Vinclozolin	0	vinclozolin_0_1	CC1(OC(=O)N(C1=O)c1cc(Cl)cc(Cl)c1)C=C	100						
+										
+3-Hydroxycarbofuran	0	3-hydroxycarbofuran_0_1	CNC(=O)Oc1cccc2C(O)C(C)(C)Oc12							
+3-Hydroxycarbofuran	-1	3-hydroxycarbofuran_-1_1	CNC(=O)Oc1cccc2C([O-])C(C)(C)Oc12							
+3-Hydroxycarbofuran	-1	3-hydroxycarbofuran_-1_2	C[N-]C(=O)Oc1cccc2C(O)C(C)(C)Oc12							
+3-Hydroxycarbofuran	-2	3-hydroxycarbofuran_-2_1	C[N-]C(=O)Oc1cccc2C([O-])C(C)(C)Oc12	100						
+										
+Acetochlor	0	acetochlor_0_1	CCOCN(C(=O)CCl)c1c(C)cccc1CC							
+Acetochlor	-1	acetochlor_-1_1	CCOCN(C(=O)[CH-]Cl)c1c(C)cccc1CC	100						
+										
+Acetochlor ethanesulfonic acid	0	acetochlorethanesulfonicacid_0_1	CCOCN(C(=O)CS(O)(=O)=O)c1c(C)cccc1CC							
+Acetochlor ethanesulfonic acid	-1	acetochlorethanesulfonicacid_-1_1	CCOCN(C(=O)CS([O-])(=O)=O)c1c(C)cccc1CC							
+Acetochlor ethanesulfonic acid	-2	acetochlorethanesulfonicacid_-2_1	CCOCN(C(=O)[CH-]S([O-])(=O)=O)c1c(C)cccc1CC	100						
+										
+Acetochlor oxanilic acid	0	acetochloroxanilicacid_0_1	CCOCN(C(=O)C(O)=O)c1c(C)cccc1CC							
+Acetochlor oxanilic acid	-1	acetochloroxanilicacid_-1_1	CCOCN(C(=O)C([O-])=O)c1c(C)cccc1CC	100						
+										
+Acrolein	0	acrolein_0_1	C=CC=O	100						
+										
+Alachlor ethanesulfonic acid	0	alachlorethanesulfonicacid_0_1	CCc1cccc(CC)c1N(COC)C(=O)CS(O)(=O)=O							
+Alachlor ethanesulfonic acid	-1	alachlorethanesulfonicacid_-1_1	CCc1cccc(CC)c1N(COC)C(=O)CS([O-])(=O)=O							
+Alachlor ethanesulfonic acid	-2	alachlorethanesulfonicacid_-2_1	CCc1cccc(CC)c1N(COC)C(=O)[CH-]S([O-])(=O)=O	100						
+										
+Alachlor oxanilic acid	0	alachloroxanilicacid_0_1	CCc1cccc(CC)c1N(COC)C(=O)C(O)=O							
+Alachlor oxanilic acid	-1	alachloroxanilicacid_-1_1	CCc1cccc(CC)c1N(COC)C(=O)C([O-])=O	100						
+										
+Aniline	1	aniline_1_1	[NH3+]c1ccccc1							
+Aniline	0	aniline_0_1	Nc1ccccc1	100						
+										
+Bensulide	0	bensulide_0_1	CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1							
+Bensulide	-1	bensulide_-1_1	CC(C)OP(=S)(OC(C)C)SCC[N-]S(=O)(=O)c1ccccc1	100						
+										
+Clethodim	1	clethodim_1_1	CCSC(C)CC1CC(O)=C(C(CC)=[NH+]OCC=CCl)C(=O)C1							
+Clethodim	0	clethodim_0_1	CCSC(C)CC1CC(O)=C(C(CC)=NOCC=CCl)C(=O)C1							
+Clethodim	-1	clethodim_-1_1	CCSC(C)CC1CC([O-])=C(C(CC)=NOCC=CCl)C(=O)C1	100						
+										
+Cumene hydroperoxide	0	cumenehydroperoxide_0_1	CC(C)(OO)c1ccccc1							
+Cumene hydroperoxide	-1	cumenehydroperoxide_-1_1	CC(C)(O[O-])c1ccccc1	100						
+										
+Dicrotophos	1	dicrotophos_1_1	COP(=O)(OC)OC(C)=CC(=[OH+])N(C)C							
+Dicrotophos	0	dicrotophos_0_1	COP(=O)(OC)OC(C)=CC(=O)N(C)C	100						
+										
+Dimethipin	0	dimethipin_0_1	CC1=C(C)S(=O)(=O)CCS1(=O)=O	100						
+										
+S-Ethyl dipropylthiocarbamate	0	s-ethyldipropylthiocarbamate_0_1	CCCN(CCC)C(=O)SCC	100						
+										
+Equilenin	0	equilenin_0_1	CC12CCc3c(ccc4cc(O)ccc34)C1CCC2=O							
+Equilenin	-1	equilenin_-1_1	CC12CCc3c(ccc4cc([O-])ccc34)C1CCC2=O	100						
+										
+Ethoprop	0	ethoprop_0_1	CCCSP(=O)(OCC)SCCC	100						
+										
+Linuron	0	linuron_0_1	CON(C)C([O-])=[NH+]c1ccc(Cl)c(Cl)c1							
+Linuron	-1	linuron_-1_1	CON(C)C([O-])=Nc1ccc(Cl)c(Cl)c1	100						
+										
+Methamidophos	0	methamidophos_0_1	COP(N)(=O)SC							
+Methamidophos	-1	methamidophos_-1_1	COP([NH-])(=O)SC	100						
+										
+Metolachlor ethanesulfonic acid	0	metolachlorethanesulfonicacid_0_1	CCc1cccc(C)c1N(C(C)COC)C(=O)CS(O)(=O)=O							
+Metolachlor ethanesulfonic acid	-1	metolachlorethanesulfonicacid_-1_1	CCc1cccc(C)c1N(C(C)COC)C(=O)CS([O-])(=O)=O							
+Metolachlor ethanesulfonic acid	-2	metolachlorethanesulfonicacid_-2_1	CCc1cccc(C)c1N(C(C)COC)C(=O)[CH-]S([O-])(=O)=O	100						
+										
+Metolachlor oxanilic acid	0	metolachloroxanilicacid_0_1	CCc1cccc(C)c1N(C(C)COC)C(=O)C(O)=O							
+Metolachlor oxanilic acid	-1	metolachloroxanilicacid_-1_1	CCc1cccc(C)c1N(C(C)COC)C(=O)C([O-])=O	100						
+										
+Oxyfluorfen	0	oxyfluorfen_0_1	CCOc1cc(Oc2ccc(cc2Cl)C(F)(F)F)ccc1[N+]([O-])=O	100						
+										
+Terbufos sulfone	0	terbufossulfone_0_1	CCOP(=S)(OCC)SCS(=O)(=O)C(C)(C)C	100						
+										
+Thiodicarb	2	thiodicarb_2_1	CSC(C)=[NH+]OC(=O)N(C)SN(C)C(=O)O[NH+]=C(C)SC							
+Thiodicarb	1	thiodicarb_1_1	CSC(C)=NOC(=O)N(C)SN(C)C(=O)O[NH+]=C(C)SC							
+Thiodicarb	0	thiodicarb_0_1	CSC(C)=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC	100						
+										
+1,2,3-Triazine	0	1,2,3-triazine_0_1	c1cnnnc1	100						
+										
+Tribufos	0	tribufos_0_1	CCCCSP(=O)(SCCCC)SCCCC	100						
+										
+2,2',4,4',5,5'-Hexabromodiphenylether	0	2,2',4,4',5,5'-hexabromodiphenylether_0_1	Brc1cc(Br)c(Oc2cc(Br)c(Br)cc2Br)cc1Br	100						
+										
+2,2',4,4',5,6'-Hexabromodiphenylether	0	2,2',4,4',5,6'-hexabromodiphenylether_0_1	Brc1cc(Br)c(Oc2cc(Br)c(Br)cc2Br)c(Br)c1	100						
+										
+2,2',4,4',5-Pentabromodiphenylether	0	2,2',4,4',5-pentabromodiphenylether_0_1	Brc1ccc(Oc2c(Br)cc(Br)cc2Br)c(Br)c1	100						
+										
+2,2',4,4',6-Pentabromodiphenylether	0	2,2',4,4',6-pentabromodiphenylether_0_1	Oc1c(Br)c(Br)cc(Br)c1Oc1ccc(Br)cc1Br							
+2,2',4,4',6-Pentabromodiphenylether	-1	2,2',4,4',6-pentabromodiphenylether_-1_1	[O-]c1c(Br)c(Br)cc(Br)c1Oc1ccc(Br)cc1Br	100						
+										
+2,2',4,4'-Tetrabromodiphenylether	0	2,2',4,4'-tetrabromodiphenylether_0_1	Brc1ccc(Oc2ccc(Br)cc2Br)c(Br)c1	100						
+										
+2,2,4'-Tribromodiphenylether	0	2,2,4'-tribromodiphenylether_0_1	Brc1ccc(Oc2ccc(Br)cc2Br)cc1	100						
+										
+2,4,5-Trichlorophenoxyaceticacid	0	2,4,5-trichlorophenoxyaceticacid_0_1	OC(=O)COc1cc(Cl)c(Cl)cc1Cl							
+2,4,5-Trichlorophenoxyaceticacid	-1	2,4,5-trichlorophenoxyaceticacid_-1_1	[O-]C(=O)COc1cc(Cl)c(Cl)cc1Cl	100						
+										
+Ethofumesate	0	ethofumesate_0_1	CCOC1Oc2ccc(OS(C)(=O)=O)cc2C1(C)C	100						
+										
+Galaxolide	0	galaxolide_0_1	CC1C(C)(C)c2cc3CCOC(C)c3cc2C1(C)C	100						
+										
+Iso-Chloridazon	0	iso-chloridazon_0_1	Nc1c(Cl)cnn(-c2ccccc2)c1=O	100						
+										
+Isodrin	1	isodrin_1_1	C[NH2+]C(C)Cc1ccc(O)cc1							
+Isodrin	0	isodrin_0_1	CNC(C)Cc1ccc(O)cc1							
+Isodrin	0	isodrin_0_2	C[NH2+]C(C)Cc1ccc([O-])cc1							
+Isodrin	-1	isodrin_-1_1	CNC(C)Cc1ccc([O-])cc1	100						
+										
+Metabenzthiazuron	1	metabenzthiazuron_1_1	CNC(=O)N(C)c1[nH+]c2ccccc2s1							
+Metabenzthiazuron	0	metabenzthiazuron_0_1	CNC(=O)N(C)c1nc2ccccc2s1							
+Metabenzthiazuron	-1	metabenzthiazuron_-1_1	C[N-]C(=O)N(C)c1nc2ccccc2s1	100						
+										
+Metazachlor	1	metazachlor_1_1	Cc1cccc(C)c1N(Cn1ccc[nH+]1)C(=O)CCl							
+Metazachlor	0	metazachlor_0_1	Cc1cccc(C)c1N(Cn1cccn1)C(=O)CCl							
+Metazachlor	-1	metazachlor_-1_1	Cc1cccc(C)c1N(Cn1cccn1)C(=O)[CH-]Cl	100						
+										
+Metoxuron	0	metoxuron_0_1	COc1ccc(NC(=O)N(C)C)cc1Cl							
+Metoxuron	-1	metoxuron_-1_1	COc1ccc([N-]C(=O)N(C)C)cc1Cl	100						
+										
+Mevinfos	0	mevinfos_0_1	COC(=O)C=C(C)OP(=O)(OC)OC	100						
+										
+Monolinuron	0	monolinuron_0_1	CON(C)C(=O)Nc1ccc(Cl)cc1							
+Monolinuron	-1	monolinuron_-1_1	CON(C)C(=O)[N-]c1ccc(Cl)cc1	100						
+										
+Musk xylene	0	muskxylene_0_1	Cc1c(c(C)c(c(c1[N+]([O-])=O)C(C)(C)C)[N+]([O-])=O)[N+]([O-])=O	100						
+										
+Pentachlorobenzene	0	pentachlorobenzene_0_1	Clc1cc(Cl)c(Cl)c(Cl)c1Cl	100						
+										
+2,4'-Dichlorodiphenyldichloroethylene	0	2,4'-dichlorodiphenyldichloroethylene_0_1	ClC(Cl)=C(c1ccc(Cl)cc1)c1ccccc1Cl	100						
+										
+2,4'-Dichlorodiphenyltrichloroethane	0	2,4'-dichlorodiphenyltrichloroethane_0_1	Clc1ccc(cc1)C(c1ccccc1Cl)C(Cl)(Cl)Cl	100						
+										
+4,4'-Dichlorodiphenyldichloroethane	0	4,4'-dichlorodiphenyldichloroethane_0_1	ClC(Cl)C(c1ccc(Cl)cc1)c1ccc(Cl)cc1	100						
+										
+4,4'-Dichlorodiphenyldichloroethylene	0	4,4'-dichlorodiphenyldichloroethylene_0_1	ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1	100						
+										
+4,4'-Dichlorodiphenyltrichloroethane	0	4,4'-dichlorodiphenyltrichloroethane_0_1	Clc1ccc(cc1)C(c1ccc(Cl)cc1)C(Cl)(Cl)Cl	100						
+										
+Beta-Endosulfan	0	beta-endosulfan_0_1	ClC1=C(Cl)C2(Cl)C3COS(=O)OCC3C1(Cl)C2(Cl)Cl	100						
+										
+Beta-hexachlorocyclohexane	0	beta-hexachlorocyclohexane_0_1	ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl	100						
+										
+Pyrazofos	1	pyrazofos_1_1	CCCC1COC(Cn2cnc[nH+]2)(O1)c1ccc(Cl)cc1Cl							
+Pyrazofos	1	pyrazofos_1_2	CCCC1COC(Cn2c[nH+]cn2)(O1)c1ccc(Cl)cc1Cl							
+Pyrazofos	0	pyrazofos_0_1	CCCC1COC(Cn2cncn2)(O1)c1ccc(Cl)cc1Cl	100						
+										
+Escitalopram	1	escitalopram_1_1	C[NH+](C)CCCC1(OCc2cc(ccc12)C#N)c1ccc(F)cc1							
+Escitalopram	0	escitalopram_0_1	CN(C)CCCC1(OCc2cc(ccc12)C#N)c1ccc(F)cc1	100						
+										
+Oxadiazon	0	oxadiazon_0_1	CC(C)Oc1cc(c(Cl)cc1Cl)-n1nc(oc1=O)C(C)(C)C	100						
+										
+Methiocarb	0	methiocarb_0_1	CNC(=O)Oc1cc(C)c(SC)c(C)c1							
+Methiocarb	-1	methiocarb_-1_1	C[N-]C(=O)Oc1cc(C)c(SC)c(C)c1	100						
+										
+Tri-allate	0	tri-allate_0_1	CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl	100						
+										
+Imidacloprid	1	imidacloprid_1_1	[O-][N+](=O)[N-]C1=[NH+]CCN1Cc1ccc(Cl)[nH+]c1							
+Imidacloprid	0	imidacloprid_0_1	[O-][N+](=O)[N-]C1=[NH+]CCN1Cc1ccc(Cl)nc1							
+Imidacloprid	-1	imidacloprid_-1_1	[O-][N+](=O)[N-]C1=NCCN1Cc1ccc(Cl)nc1	100						
+										
+Thiacloprid	2	thiacloprid_2_1	Clc1ccc(CN2CCSC2=[NH+]C#N)c[nH+]1							
+Thiacloprid	1	thiacloprid_1_1	Clc1ccc(CN2CCSC2=[NH+]C#N)cn1							
+Thiacloprid	1	thiacloprid_1_2	Clc1ccc(CN2CCSC2=NC#N)c[nH+]1							
+Thiacloprid	0	thiacloprid_0_1	Clc1ccc(CN2CCSC2=NC#N)cn1	100						
+										
+Thiamethoxam	1	thiamethoxam_1_1	CN1COCN(Cc2c[nH+]c(Cl)s2)C1=N[N+]([O-])=O							
+Thiamethoxam	0	thiamethoxam_0_1	CN1COCN(Cc2cnc(Cl)s2)C1=N[N+]([O-])=O	100						
+										
+Clothianidin	2	clothianidin_2_1	C[NH+]=C(NCc1c[nH+]c(Cl)s1)N[N+]([O-])=O							
+Clothianidin	1	clothianidin_1_1	C[NH+]=C(NCc1cnc(Cl)s1)N[N+]([O-])=O							
+Clothianidin	0	clothianidin_0_1	CN=C(NCc1cnc(Cl)s1)N[N+]([O-])=O							
+Clothianidin	0	clothianidin_0_2	C[NH+]=C(NCc1cnc(Cl)s1)[N-][N+]([O-])=O							
+Clothianidin	-1	clothianidin_-1_1	CN=C(NCc1cnc(Cl)s1)[N-][N+]([O-])=O	100						
+										
+Acetamiprid	2	acetamiprid_2_1	CN(Cc1ccc(Cl)[nH+]c1)C(C)=[NH+]C#N							
+Acetamiprid	1	acetamiprid_1_1	CN(Cc1ccc(Cl)nc1)C(C)=[NH+]C#N							
+Acetamiprid	0	acetamiprid_0_1	CN(Cc1ccc(Cl)nc1)C(C)=NC#N	100						
+										
+Dichlofluanid	1	dichlofluanid_1_1	CN(C)S(=O)(=O)[NH+](SC(F)(Cl)Cl)c1ccccc1							
+Dichlofluanid	0	dichlofluanid_0_1	CN(C)S(=O)(=O)N(SC(F)(Cl)Cl)c1ccccc1	100						
+										
+Azithromycin	2	azithromycin_2_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)[NH+](C)C)C(C)(O)CC(C)C[NH+](C)C(C)C(O)C1(C)O							
+Azithromycin	1	azithromycin_1_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C[NH+](C)C(C)C(O)C1(C)O							
+Azithromycin	1	azithromycin_1_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)[NH+](C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	1	azithromycin_1_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])[NH+](C)C)C(C)(O)CC(C)C[NH+](C)C(C)C(O)C1(C)O							
+Azithromycin	0	azithromycin_0_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C[NH+](C)C(C)C([O-])C1(C)O							
+Azithromycin	0	azithromycin_0_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	0	azithromycin_0_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])[NH+](C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	-1	azithromycin_-1_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	-1	azithromycin_-1_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C([O-])C1(C)O							
+Azithromycin	-1	azithromycin_-1_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	-1	azithromycin_-1_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	-1	azithromycin_-1_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)[O-]							
+Azithromycin	-2	azithromycin_-2_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)CN(C)C(C)C([O-])C1(C)O							
+Azithromycin	-2	azithromycin_-2_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	-2	azithromycin_-2_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)[O-]							
+Azithromycin	-2	azithromycin_-2_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C([O-])C1(C)[O-]							
+Azithromycin	-2	azithromycin_-2_8	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C([O-])C1(C)O							
+Azithromycin	-2	azithromycin_-2_9	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	-2	azithromycin_-2_10	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)CN(C)C(C)C([O-])C1(C)O							
+Azithromycin	-2	azithromycin_-2_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)CN(C)C(C)C(O)C1(C)[O-]							
+Azithromycin	-2	azithromycin_-2_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)[O-]							
+Azithromycin	-2	azithromycin_-2_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	-3	azithromycin_-3_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)CN(C)C(C)C(O)C1(C)O							
+Azithromycin	-3	azithromycin_-3_6	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)CN(C)C(C)C([O-])C1(C)O							
+Azithromycin	-3	azithromycin_-3_7	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C([O-])C1(C)[O-]							
+Azithromycin	-3	azithromycin_-3_8	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)CN(C)C(C)C(O)C1(C)[O-]							
+Azithromycin	-3	azithromycin_-3_9	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)CN(C)C(C)C([O-])C1(C)[O-]							
+Azithromycin	-3	azithromycin_-3_10	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)CN(C)C(C)C([O-])C1(C)O							
+Azithromycin	-3	azithromycin_-3_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)CN(C)C(C)C([O-])C1(C)O							
+Azithromycin	-3	azithromycin_-3_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)[O-]							
+Azithromycin	-3	azithromycin_-3_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)CN(C)C(C)C([O-])C1(C)[O-]							
+Azithromycin	-3	azithromycin_-3_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)CN(C)C(C)C(O)C1(C)[O-]							
+Azithromycin	-4	azithromycin_-4_5	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)([O-])CC(C)CN(C)C(C)C([O-])C1(C)[O-]							
+Azithromycin	-4	azithromycin_-4_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)(O)CC(C)CN(C)C(C)C([O-])C1(C)[O-]							
+Azithromycin	-4	azithromycin_-4_2	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)CN(C)C(C)C(O)C1(C)[O-]							
+Azithromycin	-4	azithromycin_-4_3	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)CN(C)C(C)C([O-])C1(C)[O-]							
+Azithromycin	-4	azithromycin_-4_4	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)CN(C)C(C)C([O-])C1(C)O							
+Azithromycin	-5	azithromycin_-5_1	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C([O-])C(C)O2)C(C)C(OC2OC(C)CC(C2[O-])N(C)C)C(C)([O-])CC(C)CN(C)C(C)C([O-])C1(C)[O-]	100						
+										
+Amisulpride	3	amisulpride_3_1	CC[NH+]1CCCC1CNC(=[OH+])c1cc(c([NH3+])cc1OC)S(=O)(=O)CC							
+Amisulpride	2	amisulpride_2_1	CC[NH+]1CCCC1CNC(=[OH+])c1cc(c(N)cc1OC)S(=O)(=O)CC							
+Amisulpride	2	amisulpride_2_2	CC[NH+]1CCCC1CNC(=O)c1cc(c([NH3+])cc1OC)S(=O)(=O)CC							
+Amisulpride	1	amisulpride_1_1	CC[NH+]1CCCC1CNC(=O)c1cc(c(N)cc1OC)S(=O)(=O)CC							
+Amisulpride	0	amisulpride_0_1	CCN1CCCC1CNC(=O)c1cc(c(N)cc1OC)S(=O)(=O)CC							
+Amisulpride	-1	amisulpride_-1_1	CCN1CCCC1C[N-]C(=O)c1cc(c(N)cc1OC)S(=O)(=O)CC	100						
+										
+Candesartan	2	candesartan_2_3	CCOc1[nH+]c2cccc(C(O)=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1nn[nH+][nH]1							
+Candesartan	2	candesartan_2_2	CCOc1[nH+]c2cccc(C(O)=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1[nH]nn[nH+]1							
+Candesartan	2	candesartan_2_1	CCOc1[nH+]c2cccc(C(O)=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1n[nH+]n[nH]1							
+Candesartan	1	candesartan_1_1	CCOc1[nH+]c2cccc(C(O)=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1							
+Candesartan	0	candesartan_0_2	CCOc1[nH+]c2cccc(C([O-])=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1							
+Candesartan	0	candesartan_0_1	CCOc1nc2cccc(C(O)=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1							
+Candesartan	-1	candesartan_-1_1	CCOc1nc2cccc(C([O-])=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1							
+Candesartan	-1	candesartan_-1_2	CCOc1nc2cccc(C(O)=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1							
+Candesartan	-2	candesartan_-2_1	CCOc1nc2cccc(C([O-])=O)c2n1Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1	100						
+										
+Hydrochlorothiazide	0	hydrochlorothiazide_0_1	NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl							
+Hydrochlorothiazide	-1	hydrochlorothiazide_-1_1	[NH-]S(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl							
+Hydrochlorothiazide	-1	hydrochlorothiazide_-1_2	NS(=O)(=O)c1cc2c(NC[N-]S2(=O)=O)cc1Cl							
+Hydrochlorothiazide	-1	hydrochlorothiazide_-1_3	NS(=O)(=O)c1cc2c([N-]CNS2(=O)=O)cc1Cl							
+Hydrochlorothiazide	-2	hydrochlorothiazide_-2_1	[NH-]S(=O)(=O)c1cc2c(NC[N-]S2(=O)=O)cc1Cl							
+Hydrochlorothiazide	-2	hydrochlorothiazide_-2_2	[NH-]S(=O)(=O)c1cc2c([N-]CNS2(=O)=O)cc1Cl							
+Hydrochlorothiazide	-2	hydrochlorothiazide_-2_3	NS(=O)(=O)c1cc2c([N-]C[N-]S2(=O)=O)cc1Cl							
+Hydrochlorothiazide	-3	hydrochlorothiazide_-3_1	[NH-]S(=O)(=O)c1cc2c([N-]C[N-]S2(=O)=O)cc1Cl	100						
+										
+Irbesartan	2	irbesartan_2_1	CCCCC1=[NH+]C2(CCCC2)C(=O)N1Cc1ccc(cc1)-c1ccccc1-c1n[nH+]n[nH]1							
+Irbesartan	2	irbesartan_2_2	CCCCC1=[NH+]C2(CCCC2)C(=O)N1Cc1ccc(cc1)-c1ccccc1-c1[nH]nn[nH+]1							
+Irbesartan	2	irbesartan_2_3	CCCCC1=[NH+]C2(CCCC2)C(=O)N1Cc1ccc(cc1)-c1ccccc1-c1nn[nH+][nH]1							
+Irbesartan	1	irbesartan_1_1	CCCCC1=[NH+]C2(CCCC2)C(=O)N1Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1							
+Irbesartan	0	irbesartan_0_1	CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1							
+Irbesartan	0	irbesartan_0_2	CCCCC1=[NH+]C2(CCCC2)C(=O)N1Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1							
+Irbesartan	-1	irbesartan_-1_1	CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1	100						
+										
+Crotamiton	1	crotamiton_1_1	CCN(C(=[OH+])C=CC)c1ccccc1C							
+Crotamiton	0	crotamiton_0_1	CCN(C(=O)C=CC)c1ccccc1C	100						
+										
+Phenytoin	1	phenytoin_1_1	OC1=[NH+]C(C(O)=N1)(c1ccccc1)c1ccccc1							
+Phenytoin	1	phenytoin_1_2	OC1=NC(C(O)=[NH+]1)(c1ccccc1)c1ccccc1							
+Phenytoin	0	phenytoin_0_1	OC1=NC(C(O)=N1)(c1ccccc1)c1ccccc1							
+Phenytoin	0	phenytoin_0_2	OC1=NC(C([O-])=[NH+]1)(c1ccccc1)c1ccccc1							
+Phenytoin	-1	phenytoin_-1_1	OC1=NC(C([O-])=N1)(c1ccccc1)c1ccccc1							
+Phenytoin	-1	phenytoin_-1_2	OC1=NC([O-])=NC1(c1ccccc1)c1ccccc1							
+Phenytoin	-2	phenytoin_-2_1	[O-]C1=NC(C([O-])=N1)(c1ccccc1)c1ccccc1	100						
+										
+Tonalide	0	tonalide_0_1	CC1CC(C)(C)c2cc(C(C)=O)c(C)cc2C1(C)C							
+Tonalide	-1	tonalide_-1_1	CC1CC(C)(C)c2cc(C([CH2-])=O)c(C)cc2C1(C)C	100						
+										
+Phantolide	0	phantolide_0_1	CC1C(C)(C)c2cc(C)c(cc2C1(C)C)C(C)=O							
+Phantolide	-1	phantolide_-1_1	CC1C(C)(C)c2cc(C)c(cc2C1(C)C)C([CH2-])=O	100						
+										
+Celestolide	0	celestolide_0_1	CC(=O)c1cc(cc2c1CCC2(C)C)C(C)(C)C							
+Celestolide	-1	celestolide_-1_1	CC(C)(C)c1cc2c(CCC2(C)C)c(c1)C([CH2-])=O	100						
+										
+Musk ketone	0	muskketone_0_1	CC(=O)c1c(C)c(c(c(c1C)[N+]([O-])=O)C(C)(C)C)[N+]([O-])=O							
+Musk ketone	-1	muskketone_-1_1	Cc1c(C([CH2-])=O)c(C)c(c(c1[N+]([O-])=O)C(C)(C)C)[N+]([O-])=O	100						
+										
+Triclosan	0	triclosan_0_1	Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl							
+Triclosan	-1	triclosan_-1_1	[O-]c1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl	100						
+										
+2,6-Ditert-butyl-4-methylphenol	0	2,6-ditert-butyl-4-methylphenol_0_1	Cc1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C							
+2,6-Ditert-butyl-4-methylphenol	-1	2,6-ditert-butyl-4-methylphenol_-1_1	Cc1cc(c([O-])c(c1)C(C)(C)C)C(C)(C)C	100						
+										
+Diethyl phthalate	0	diethylphthalate_0_1	CCOC(=O)c1ccccc1C(=O)OCC	100						
+										
+Dibutyl phthalate	0	dibutylphthalate_0_1	CCCCOC(=O)c1ccccc1C(=O)OCCCC	100						
+										
+Diisobutyl phthalate	0	diisobutylphthalate_0_1	CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C	100						
+										
+Dimethyl phthalate	0	dimethylphthalate_0_1	COC(=O)c1ccccc1C(=O)OC	100						
+										
+Testosterone	1	testosterone_1_1	CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2[OH2+]							
+Testosterone	0	testosterone_0_1	CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2O	100						
+										
+4-Androstene-3,17-dione	0	4-androstene-3,17-dione_0_1	CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2=O	100						
+										
+Sulfadiazine	1	sulfadiazine_1_1	[NH3+]c1ccc(cc1)S(=O)(=O)Nc1ncccn1							
+Sulfadiazine	0	sulfadiazine_0_1	Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1							
+Sulfadiazine	-1	sulfadiazine_-1_1	Nc1ccc(cc1)S(=O)(=O)[N-]c1ncccn1	100						
+										
+Gabapentin	1	gabapentin_1_1	[NH3+]CC1(CC(O)=O)CCCCC1							
+Gabapentin	0	gabapentin_0_1	[NH3+]CC1(CC([O-])=O)CCCCC1							
+Gabapentin	-1	gabapentin_-1_1	NCC1(CC([O-])=O)CCCCC1	100						
+										
+Sulfamerzine	1	sulfamerzine_1_1	Cc1ccnc(NS(=O)(=O)c2ccc([NH3+])cc2)n1							
+Sulfamerzine	0	sulfamerzine_0_1	Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1							
+Sulfamerzine	-1	sulfamerzine_-1_1	Cc1ccnc([N-]S(=O)(=O)c2ccc(N)cc2)n1	100						
+										
+Levofloxacin	1	levofloxacin_1_1	CC1COc2c(N3CC[NH+](C)CC3)c(F)cc3c2n1cc(C(O)=O)c3=O							
+Levofloxacin	0	levofloxacin_0_1	CC1COc2c(N3CCN(C)CC3)c(F)cc3c2n1cc(C(O)=O)c3=O							
+Levofloxacin	0	levofloxacin_0_2	CC1COc2c(N3CC[NH+](C)CC3)c(F)cc3c2n1cc(C([O-])=O)c3=O							
+Levofloxacin	-1	levofloxacin_-1_1	CC1COc2c(N3CCN(C)CC3)c(F)cc3c2n1cc(C([O-])=O)c3=O	100						
+										
+Norfloxacin	2	norfloxacin_2_1	CC[NH+]1C=C(C(O)=O)C(=O)c2cc(F)c(cc12)N1CC[NH2+]CC1							
+Norfloxacin	1	norfloxacin_1_1	CCn1cc(C(O)=O)c(=O)c2cc(F)c(cc12)N1CC[NH2+]CC1							
+Norfloxacin	0	norfloxacin_0_1	CCn1cc(C(O)=O)c(=O)c2cc(F)c(cc12)N1CCNCC1							
+Norfloxacin	0	norfloxacin_0_2	CCn1cc(C([O-])=O)c(=O)c2cc(F)c(cc12)N1CC[NH2+]CC1							
+Norfloxacin	-1	norfloxacin_-1_1	CCn1cc(C([O-])=O)c(=O)c2cc(F)c(cc12)N1CCNCC1	100						
+										
+Sulfachloropyridazine	1	sulfachloropyridazine_1_1	[NH3+]c1ccc(cc1)S(=O)(=O)Nc1ccc(Cl)nn1							
+Sulfachloropyridazine	0	sulfachloropyridazine_0_1	Nc1ccc(cc1)S(=O)(=O)Nc1ccc(Cl)nn1							
+Sulfachloropyridazine	-1	sulfachloropyridazine_-1_1	Nc1ccc(cc1)S(=O)(=O)[N-]c1ccc(Cl)nn1	100						
+										
+Enrofloxacin	2	enrofloxacin_2_1	CC[NH+]1CCN(CC1)c1cc2[NH+](C=C(C(O)=O)C(=O)c2cc1F)C1CC1							
+Enrofloxacin	1	enrofloxacin_1_1	CC[NH+]1CCN(CC1)c1cc2n(cc(C(O)=O)c(=O)c2cc1F)C1CC1							
+Enrofloxacin	0	enrofloxacin_0_1	CCN1CCN(CC1)c1cc2n(cc(C(O)=O)c(=O)c2cc1F)C1CC1							
+Enrofloxacin	0	enrofloxacin_0_2	CC[NH+]1CCN(CC1)c1cc2n(cc(C([O-])=O)c(=O)c2cc1F)C1CC1							
+Enrofloxacin	-1	enrofloxacin_-1_1	CCN1CCN(CC1)c1cc2n(cc(C([O-])=O)c(=O)c2cc1F)C1CC1	100						
+										
+Sulfamonomethoxine	2	sulfamonomethoxine_2_1	COc1cc(NS(=O)(=O)c2ccc([NH3+])cc2)nc[nH+]1							
+Sulfamonomethoxine	1	sulfamonomethoxine_1_1	COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc[nH+]1							
+Sulfamonomethoxine	1	sulfamonomethoxine_1_2	COc1cc(NS(=O)(=O)c2ccc([NH3+])cc2)ncn1							
+Sulfamonomethoxine	0	sulfamonomethoxine_0_1	COc1cc(NS(=O)(=O)c2ccc(N)cc2)ncn1							
+Sulfamonomethoxine	-1	sulfamonomethoxine_-1_1	COc1cc([N-]S(=O)(=O)c2ccc(N)cc2)ncn1	100						
+										
+Primidone	2	primidone_2_1	CCC1(C(O)=[NH+]C[NH+]=C1O)c1ccccc1							
+Primidone	1	primidone_1_1	CCC1(C(O)=NC[NH+]=C1O)c1ccccc1							
+Primidone	1	primidone_1_2	CCC1(C(O)=[NH+]C[NH+]=C1[O-])c1ccccc1							
+Primidone	0	primidone_0_1	CCC1(C(O)=NCN=C1O)c1ccccc1							
+Primidone	0	primidone_0_2	CCC1(C(O)=NC[NH+]=C1[O-])c1ccccc1							
+Primidone	0	primidone_0_3	CCC1(C([O-])=NC[NH+]=C1O)c1ccccc1							
+Primidone	0	primidone_0_4	CCC1(C([O-])=[NH+]C[NH+]=C1[O-])c1ccccc1							
+Primidone	-1	primidone_-1_1	CCC1(C(O)=NCN=C1[O-])c1ccccc1							
+Primidone	-1	primidone_-1_2	CCC1(C([O-])=NC[NH+]=C1[O-])c1ccccc1							
+Primidone	-2	primidone_-2_1	CCC1(C([O-])=NCN=C1[O-])c1ccccc1	100						
+										
+Sulfadimethoxine	2	sulfadimethoxine_2_1	COc1cc(NS(=O)(=O)c2ccc([NH3+])cc2)nc(OC)[nH+]1							
+Sulfadimethoxine	1	sulfadimethoxine_1_1	COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)[nH+]1							
+Sulfadimethoxine	1	sulfadimethoxine_1_2	COc1cc(NS(=O)(=O)c2ccc([NH3+])cc2)nc(OC)n1							
+Sulfadimethoxine	0	sulfadimethoxine_0_1	COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1							
+Sulfadimethoxine	-1	sulfadimethoxine_-1_1	COc1cc([N-]S(=O)(=O)c2ccc(N)cc2)nc(OC)n1	100						
+										
+Thiabendazole	2	thiabendazole_2_1	c1[nH+]c(cs1)-c1[nH]c2ccccc2[nH+]1							
+Thiabendazole	1	thiabendazole_1_1	c1nc(cs1)-c1[nH]c2ccccc2[nH+]1							
+Thiabendazole	0	thiabendazole_0_1	c1nc(cs1)-c1nc2ccccc2[nH]1							
+Thiabendazole	-1	thiabendazole_-1_1	c1nc(cs1)-c1nc2ccccc2[n-]1	100						
+										
+Oxfendazole	1	oxfendazole_1_1	COC(=O)Nc1[nH]c2ccc(cc2[nH+]1)S(=O)c1ccccc1							
+Oxfendazole	0	oxfendazole_0_1	COC(=O)Nc1nc2cc(ccc2[nH]1)S(=O)c1ccccc1							
+Oxfendazole	-1	oxfendazole_-1_1	COC(=O)Nc1nc2cc(ccc2[n-]1)S(=O)c1ccccc1							
+Oxfendazole	-1	oxfendazole_-1_2	COC(=O)[N-]c1nc2cc(ccc2[nH]1)S(=O)c1ccccc1							
+Oxfendazole	-2	oxfendazole_-2_1	COC(=O)[N-]c1nc2cc(ccc2[n-]1)S(=O)c1ccccc1	100						
+										
+Trazodone	2	trazodone_2_1	Clc1cccc(c1)[NH+]1CC[NH+](CCCn2nc3ccccn3c2=O)CC1							
+Trazodone	1	trazodone_1_1	Clc1cccc(c1)N1CC[NH+](CCCn2nc3ccccn3c2=O)CC1							
+Trazodone	0	trazodone_0_1	Clc1cccc(c1)N1CCN(CCCn2nc3ccccn3c2=O)CC1	100						
+										
+Fluoxetin	1	fluoxetin_1_1	C[NH2+]CCC(Oc1ccc(cc1)C(F)(F)F)c1ccccc1							
+Fluoxetin	0	fluoxetin_0_1	CNCCC(Oc1ccc(cc1)C(F)(F)F)c1ccccc1	100						
+										
+Amitriptyline	1	amitriptyline_1_1	C[NH+](C)CCC=C1c2ccccc2CCc2ccccc12							
+Amitriptyline	0	amitriptyline_0_1	CN(C)CCC=C1c2ccccc2CCc2ccccc12	100						
+										
+Hydrocortison	0	hydrocortison_0_1	CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC12C							
+Hydrocortison	-1	hydrocortison_-1_2	CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C([O-])CC12C							
+Hydrocortison	-1	hydrocortison_-1_3	CC(=O)O[CH-]C(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC12C							
+Hydrocortison	-1	hydrocortison_-1_1	CC(=O)OCC(=O)C1([O-])CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC12C							
+Hydrocortison	-2	hydrocortison_-2_2	CC(=O)O[CH-]C(=O)C1([O-])CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC12C							
+Hydrocortison	-2	hydrocortison_-2_3	CC(=O)O[CH-]C(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C([O-])CC12C							
+Hydrocortison	-2	hydrocortison_-2_1	CC(=O)OCC(=O)C1([O-])CCC2C3CCC4=CC(=O)CCC4(C)C3C([O-])CC12C							
+Hydrocortison	-3	hydrocortison_-3_1	CC(=O)O[CH-]C(=O)C1([O-])CCC2C3CCC4=CC(=O)CCC4(C)C3C([O-])CC12C	100						
+										
+Losartan	2	losartan_2_1	CCCCc1[nH+]c(Cl)c(CO)n1Cc1ccc(cc1)-c1ccccc1-c1n[nH+]n[nH]1							
+Losartan	2	losartan_2_2	CCCCc1[nH+]c(Cl)c(CO)n1Cc1ccc(cc1)-c1ccccc1-c1[nH]nn[nH+]1							
+Losartan	2	losartan_2_3	CCCCc1[nH+]c(Cl)c(CO)n1Cc1ccc(cc1)-c1ccccc1-c1nn[nH+][nH]1							
+Losartan	1	losartan_1_1	CCCCc1[nH+]c(Cl)c(CO)n1Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1							
+Losartan	0	losartan_0_1	CCCCc1nc(Cl)c(CO)n1Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1							
+Losartan	0	losartan_0_2	CCCCc1[nH+]c(Cl)c(CO)n1Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1							
+Losartan	-1	losartan_-1_1	CCCCc1nc(Cl)c(CO)n1Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1							
+Losartan	-2	losartan_-2_1	CCCCc1nc(Cl)c(C[O-])n1Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1	100						
+										
+Sertraline	1	sertraline_1_1	C[NH2+]C1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc12							
+Sertraline	0	sertraline_0_1	CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc12	100						
+										
+Ketoprofen	0	ketoprofen_0_1	CC(C(O)=O)c1cccc(c1)C(=O)c1ccccc1							
+Ketoprofen	-1	ketoprofen_-1_1	CC(C([O-])=O)c1cccc(c1)C(=O)c1ccccc1	100						
+										
+Flubendazole	1	flubendazole_1_1	COC(=O)Nc1[nH]c2ccc(cc2[nH+]1)C(=O)c1ccc(F)cc1							
+Flubendazole	0	flubendazole_0_1	COC(=O)Nc1nc2cc(ccc2[nH]1)C(=O)c1ccc(F)cc1							
+Flubendazole	-1	flubendazole_-1_1	COC(=O)Nc1nc2cc(ccc2[n-]1)C(=O)c1ccc(F)cc1							
+Flubendazole	-1	flubendazole_-1_2	COC(=O)[N-]c1nc2cc(ccc2[nH]1)C(=O)c1ccc(F)cc1							
+Flubendazole	-2	flubendazole_-2_1	COC(=O)[N-]c1nc2cc(ccc2[n-]1)C(=O)c1ccc(F)cc1	100						
+										
+Valsartan	2	valsartan_2_1	CCCCC(=[OH+])N(Cc1ccc(cc1)-c1ccccc1-c1n[nH+]n[nH]1)C(C(C)C)C(O)=O							
+Valsartan	2	valsartan_2_2	CCCCC(=[OH+])N(Cc1ccc(cc1)-c1ccccc1-c1[nH]nn[nH+]1)C(C(C)C)C(O)=O							
+Valsartan	2	valsartan_2_3	CCCCC(=[OH+])N(Cc1ccc(cc1)-c1ccccc1-c1nn[nH+][nH]1)C(C(C)C)C(O)=O							
+Valsartan	1	valsartan_1_1	CCCCC(=O)N(Cc1ccc(cc1)-c1ccccc1-c1n[nH+]n[nH]1)C(C(C)C)C(O)=O							
+Valsartan	1	valsartan_1_2	CCCCC(=O)N(Cc1ccc(cc1)-c1ccccc1-c1[nH]nn[nH+]1)C(C(C)C)C(O)=O							
+Valsartan	1	valsartan_1_3	CCCCC(=O)N(Cc1ccc(cc1)-c1ccccc1-c1nn[nH+][nH]1)C(C(C)C)C(O)=O							
+Valsartan	1	valsartan_1_4	CCCCC(=[OH+])N(Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1)C(C(C)C)C(O)=O							
+Valsartan	0	valsartan_0_1	CCCCC(=O)N(Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1)C(C(C)C)C(O)=O							
+Valsartan	-1	valsartan_-1_1	CCCCC(=O)N(Cc1ccc(cc1)-c1ccccc1-c1nnn[nH]1)C(C(C)C)C([O-])=O							
+Valsartan	-1	valsartan_-1_2	CCCCC(=O)N(Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1)C(C(C)C)C(O)=O							
+Valsartan	-2	valsartan_-2_1	CCCCC(=O)N(Cc1ccc(cc1)-c1ccccc1-c1nnn[n-]1)C(C(C)C)C([O-])=O	100						
+										
+Fluocinolone acetonide	0	fluocinoloneacetonide_0_1	CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)CO							
+Fluocinolone acetonide	-1	fluocinoloneacetonide_-1_2	CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)C[O-]							
+Fluocinolone acetonide	-1	fluocinoloneacetonide_-1_3	CC1(C)OC2CC3C4C[C-](F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)CO							
+Fluocinolone acetonide	-1	fluocinoloneacetonide_-1_4	CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)[CH-]O							
+Fluocinolone acetonide	-1	fluocinoloneacetonide_-1_1	CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)CO							
+Fluocinolone acetonide	-2	fluocinoloneacetonide_-2_5	CC1(C)OC2CC3C4C[C-](F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)[CH-]O							
+Fluocinolone acetonide	-2	fluocinoloneacetonide_-2_3	CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)[CH-]O							
+Fluocinolone acetonide	-2	fluocinoloneacetonide_-2_4	CC1(C)OC2CC3C4C[C-](F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)C[O-]							
+Fluocinolone acetonide	-2	fluocinoloneacetonide_-2_2	CC1(C)OC2CC3C4C[C-](F)C5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)CO							
+Fluocinolone acetonide	-2	fluocinoloneacetonide_-2_1	CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)C[O-]							
+Fluocinolone acetonide	-3	fluocinoloneacetonide_-3_2	CC1(C)OC2CC3C4C[C-](F)C5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)[CH-]O							
+Fluocinolone acetonide	-3	fluocinoloneacetonide_-3_1	CC1(C)OC2CC3C4C[C-](F)C5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)C[O-]	100						
+										
+Triamcinolone acetonide	0	triamcinoloneacetonide_0_1	CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)CO							
+Triamcinolone acetonide	-1	triamcinoloneacetonide_-1_1	CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)CO							
+Triamcinolone acetonide	-1	triamcinoloneacetonide_-1_2	CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)C[O-]							
+Triamcinolone acetonide	-1	triamcinoloneacetonide_-1_3	CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)[CH-]O							
+Triamcinolone acetonide	-2	triamcinoloneacetonide_-2_1	CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)C[O-]							
+Triamcinolone acetonide	-2	triamcinoloneacetonide_-2_2	CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C([O-])CC3(C)C2(O1)C(=O)[CH-]O	100						
+										
+Praziquantel	1	praziquantel_1_1	O=C1CN(CC2N1CCc1ccccc21)C(=[OH+])C1CCCCC1							
+Praziquantel	0	praziquantel_0_1	O=C(C1CCCCC1)N1CC2N(CCc3ccccc23)C(=O)C1	100						
+										
+Albendazole	1	albendazole_1_1	CCCSc1ccc2[nH]c(NC(=O)OC)[nH+]c2c1							
+Albendazole	0	albendazole_0_1	CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1							
+Albendazole	-1	albendazole_-1_1	CCCSc1ccc2[n-]c(NC(=O)OC)nc2c1							
+Albendazole	-1	albendazole_-1_2	CCCSc1ccc2[nH]c([N-]C(=O)OC)nc2c1							
+Albendazole	-2	albendazole_-2_1	CCCSc1ccc2[n-]c([N-]C(=O)OC)nc2c1	100						
+										
+Fluticasone propionate	0	fluticasonepropionate_0_1	CCC(=O)OC1(C(C)CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC12C)C(=O)SCF							
+Fluticasone propionate	-1	fluticasonepropionate_-1_1	CCC(=O)OC1(C(C)CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C([O-])CC12C)C(=O)SCF							
+Fluticasone propionate	-1	fluticasonepropionate_-1_2	CCC(=O)OC1(C(C)CC2C3C[C-](F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC12C)C(=O)SCF							
+Fluticasone propionate	-2	fluticasonepropionate_-2_1	CCC(=O)OC1(C(C)CC2C3C[C-](F)C4=CC(=O)C=CC4(C)C3(F)C([O-])CC12C)C(=O)SCF	100						
+										
+Perfluoroundecanoic acid	-1	perfluoroundecanoicacid_-1_1	[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	100						
+										
+N-Nitrosopiperidine	1	n-nitrosopiperidine_1_1	[OH+]=NN1CCCCC1							
+N-Nitrosopiperidine	0	n-nitrosopiperidine_0_1	O=NN1CCCCC1	100						
+										
+N-Nitrosodiphenylamine	0	n-nitrosodiphenylamine_0_1	O=NN(c1ccccc1)c1ccccc1	100						
+										
+1,2,4-triazine	1	1,2,4-triazine_1_1	c1cn[nH+]cn1							
+1,2,4-triazine	1	1,2,4-triazine_1_2	c1c[nH+]cnn1							
+1,2,4-triazine	1	1,2,4-triazine_1_3	c1c[nH+]ncn1							
+1,2,4-triazine	0	1,2,4-triazine_0_1	c1cnncn1	100						
+										
+1,3,5-triazine	1	1,3,5-triazine_1_1	c1nc[nH+]cn1							
+1,3,5-triazine	0	1,3,5-triazine_0_1	c1ncncn1	100						
+										
+Bisphenol A	0	bisphenola_0_1	CC(C)(c1ccc(O)cc1)c1ccc(O)cc1							
+Bisphenol A	-1	bisphenola_-1_1	CC(C)(c1ccc(O)cc1)c1ccc([O-])cc1							
+Bisphenol A	-2	bisphenola_-2_1	CC(C)(c1ccc([O-])cc1)c1ccc([O-])cc1	100						
+										
+4-Nonylphenol	0	4-nonylphenol_0_1	CCCCCCCCCc1ccc(O)cc1							
+4-Nonylphenol	-1	4-nonylphenol_-1_1	CCCCCCCCCc1ccc([O-])cc1	100						
+										
